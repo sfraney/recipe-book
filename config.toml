@@ -1,8 +1,8 @@
-baseURL = "https://recipesbook.netlify.com/"
+baseURL = "https://sfraney.github.io/"
 languageCode = "en-us"
-title = "Jason's Recipe Book"
+title = "Makn Food"
 theme = "recipes"
 
 [params]
-  author = "Jason Rametta"
-  description = "Jason's Recipe Book"
+  author = "Sean"
+  description = "Recipes"
