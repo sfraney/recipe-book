@@ -6,7 +6,7 @@ date: 2021-05-02T23:26:45-07:00
 draft: false
 time: "60m"
 tags: ["soup", "vegetarian"]
-featured_image: "/general-tsos-tofu.jpg"
+#featured_image: "/general-tsos-tofu.jpg"
 ---
 
 ## Discussion

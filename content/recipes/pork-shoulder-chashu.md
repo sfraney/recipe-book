@@ -1,12 +1,12 @@
 ---
 title: "Pork Shoulder Chashu"
-description: ""
-summary: ""
+description: "Sous vide chashu from pork shoulder"
+summary: "Maybe the most requested creation"
 date: 2020-01-25T18:25:52+00:00
 draft: false
 time: "45h (20m active)"
 tags: ["placeholder", "meat", "pork", "sous vide"]
-featured_image: 
+featured_image: /chashu-finished.trimmed.jpg
 ---
 
 This is maybe the most revered recipe I've made.  I don't make it often because it requires planning (and I've almost completely stopped making recipes with meat), but it is well-loved.
