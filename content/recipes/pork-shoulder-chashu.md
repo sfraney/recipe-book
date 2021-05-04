@@ -5,7 +5,7 @@ summary: "Maybe the most requested creation"
 date: 2020-01-25T18:25:52+00:00
 draft: false
 time: "45h (20m active)"
-tags: ["placeholder", "meat", "pork", "sous vide"]
+tags: ["meat", "pork", "sous vide"]
 featured_image: /chashu-finished.trimmed.jpg
 ---
 
