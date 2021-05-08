@@ -1,5 +1,5 @@
 ---
-title: "Saurkraut"
+title: "Sauerkraut"
 description: "Put a bunch of cabbage and some salt in a dark place"
 summary: "Food magic"
 date: 2020-05-09T18:25:52+00:00
