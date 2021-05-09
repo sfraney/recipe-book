@@ -20,4 +20,5 @@ git add $DIR/../public
 git commit -a -m "Generate"
 
 # Push subtree to site
+cd $DIR/..
 $DIR/push_public.sh
