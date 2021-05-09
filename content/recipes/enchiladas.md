@@ -13,7 +13,7 @@ Based, very loosely at this point, on Kenji's Best Creamy Chicken Enchiladas Rec
 
 ## Ingredients
 
-- Chili Sauce
+- Chili Sauce (see "Red Chili Sauce" post)
 - 1 cup loosely packed picked fresh cilantro leaves and fine stems, plus chopped cilantro for garnish
 - 2 lbs. protein: refried beans, cooked beans, tofu, shredded chicken, etc.
 - ~6 tortillas (corn or flour)
