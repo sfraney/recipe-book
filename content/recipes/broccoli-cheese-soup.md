@@ -11,7 +11,7 @@ tags: ["soup", "vegetarian"]
 
 ## Discussion
 
-Mix of home recipe and <a href="https://www.seriouseats.com/recipes/2016/10/broccoli-cheddar-cheese-soup-food-lab-recipe.html" target=_blank>Kenji’s</a>.
+Mix of home recipe and [Kenji’s](https://www.seriouseats.com/recipes/2016/10/broccoli-cheddar-cheese-soup-food-lab-recipe.html)
 
 ## Ingredients
 

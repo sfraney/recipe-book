@@ -9,7 +9,7 @@ tags: ["breakfast", "babish"]
 featured_image: 
 ---
 
-From Binging with Babish's <a href="https://www.bingingwithbabish.com/recipes/lotr-feast-special">Lord of the Rings Special</a>
+From Binging with Babish's [Lord of the Rings Special](https://www.bingingwithbabish.com/recipes/lotr-feast-special)
 
 ## Ingredients
 

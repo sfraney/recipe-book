@@ -16,7 +16,7 @@ The top 7 of this list will possibly become family staples. The rest didn’t ga
 1. Mejadra
    - Major ingredients: Lentils, Rice
    - Preparation notes: Frying onions may splatter => use splatter protection (e.g., wok w/ frywall)
-1. Cauliflower General Tso’s – variant of https://www.seriouseats.com/recipes/2014/04/the-best-general-tsos-chicken-food-lab-chinese-recipe.html
+1. Cauliflower General Tso’s – variant of [Kenji's The Best General Tso's Chiken](https://www.seriouseats.com/recipes/2014/04/the-best-general-tsos-chicken-food-lab-chinese-recipe.html)
    - This is so good! I want to put it up to #1, but need to let my excitement settle to get some perspective.
      - The sauce and fried cauliflower are awesome by themselves and made better together
      - Fried cauliflower has a great crunchiness and the little chunks of fried dredge that stick to them are so good

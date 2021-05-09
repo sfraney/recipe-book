@@ -9,7 +9,7 @@ tags: ["barbecue", "sauce", "chicken", "grill"]
 #featured_image: 
 ---
 
-From https://amazingribs.com/tested-recipes/chicken-recipes/big-bob-gibsons-bama-birds-white-bbq-sauce-recipe
+[Big Bob Gibson's recipe from AmazingRibs](https://amazingribs.com/tested-recipes/chicken-recipes/big-bob-gibsons-bama-birds-white-bbq-sauce-recipe)
 
 ## Ingredients
 
