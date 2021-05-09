@@ -9,7 +9,7 @@ tags: ["breakfast", "babish"]
 featured_image: 
 ---
 
-From Binging with Babish's Lord of the Rings Special: https://www.bingingwithbabish.com/recipes/lotr-feast-special
+From Binging with Babish's <a href="https://www.bingingwithbabish.com/recipes/lotr-feast-special">Lord of the Rings Special</a>
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ From Binging with Babish's Lord of the Rings Special: https://www.bingingwithbab
 
 ## Process
 
-1. In a food processor combine of all-purpose flour, sugar, and a pinch of kosher salt. Pulse until thoroughly combined before adding in cubed butter. 
+1. In a food processor combine flour, sugar, and a pinch of kosher salt. Pulse until thoroughly combined before adding in cubed butter. 
 1. Pulse the mixture together until it resembles coarse breadcrumbs then dump it out into a large bowl and top with cold water. 
 1. Gently toss together using fingers and a wooden spoon until it starts to clump together, at which point turn it out onto a non floured surface and knead until a cohesive ball of dough is formed. 
 1. Wrap it in plastic wrap and refrigerate for at least 30 minutes, ideally 2 hours. 
