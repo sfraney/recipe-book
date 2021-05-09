@@ -5,15 +5,15 @@ summary: "Flexible enchilada recipe"
 date: 2021-05-08T18:25:52+00:00
 draft: false
 time: "1h"
-tags: ["needs links", "dinner"]
+tags: ["dinner"]
 featured_image: 
 ---
 
-Based, very loosely at this point, on Kenji's Best Creamy Chicken Enchiladas Recipe: https://www.seriouseats.com/the-best-chicken-enchiladas-recipe
+Based, very loosely at this point, on [Kenji's Best Creamy Chicken Enchiladas Recipe](https://www.seriouseats.com/the-best-chicken-enchiladas-recipe)
 
 ## Ingredients
 
-- Chili Sauce (see "Red Chili Sauce" post)
+- ~2 cups [Chili Sauce]({{< ref "red-chili-sauce" >}})
 - 1 cup loosely packed picked fresh cilantro leaves and fine stems, plus chopped cilantro for garnish
 - 2 lbs. protein: refried beans, cooked beans, tofu, shredded chicken, etc.
 - ~6 tortillas (corn or flour)
