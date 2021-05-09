@@ -5,7 +5,7 @@ summary: "Bacon is good food"
 date: 2020-02-24T18:25:52+00:00
 draft: false
 time: "days"
-tags: ["curing", "meat", "pork", "smoking", "pictures-missing"]
+tags: ["curing", "meat", "pork", "smoking", "pictures missing"]
 #featured_image: 
 ---
 

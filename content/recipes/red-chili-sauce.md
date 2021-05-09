@@ -5,7 +5,7 @@ summary: "The maker of meals"
 date: 2020-02-07T18:25:52+00:00
 draft: false
 time: "3h"
-tags: ["base-ingredient", "favorite", "fundamental"]
+tags: ["base ingredient", "favorite", "fundamental"]
 #featured_image: 
 ---
 

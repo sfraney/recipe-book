@@ -5,7 +5,7 @@ summary: "Huh, we seemed to like it.  I forgot."
 date: 2020-03-10T18:25:52+00:00
 draft: false
 time: "1h"
-tags: ["poblano", "pork", "tomatillo", "forgettable", "needs-formatting"]
+tags: ["poblano", "pork", "tomatillo", "forgettable", "needs formatting"]
 #featured_image: 
 ---
 
