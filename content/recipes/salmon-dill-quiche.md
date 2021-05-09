@@ -13,22 +13,22 @@ From Binging with Babish's Lord of the Rings Special: https://www.bingingwithbab
 
 ## Ingredients
 
-- 350g all-purpose flour
-- 2 Tbsp sugar
+- 230g all-purpose flour
+- 4 tsp sugar
 - Kosher salt 
-- 225g butter, cubed 
-- 80ml cold water
-- 1 leek, sliced
-- 1 ½ Tbsp butter, melted
-- 2 large eggs
-- ½ cup half & half
-- 1 Tbsp fresh dill, chopped
+- 150g butter, cubed 
+- 55ml cold water
+- 2 leek, sliced
+- 3 Tbsp butter, melted
+- 4 large eggs
+- 1 cup half & half
+- 2 Tbsp fresh dill, chopped
 - Salmon of choice (to top the quiche)
 
 ## Process
 
-1. In a food processor combine 350 grams of all-purpose flour, 2 tablespoons of sugar, and a pinch of kosher salt. Pulse until thoroughly combined before adding in 225 grams of cubed butter. 
-1. Pulse the mixture together until it resembles coarse breadcrumbs then dump it out into a large bowl and top with 80 milliliters of cold water. 
+1. In a food processor combine of all-purpose flour, sugar, and a pinch of kosher salt. Pulse until thoroughly combined before adding in cubed butter. 
+1. Pulse the mixture together until it resembles coarse breadcrumbs then dump it out into a large bowl and top with cold water. 
 1. Gently toss together using fingers and a wooden spoon until it starts to clump together, at which point turn it out onto a non floured surface and knead until a cohesive ball of dough is formed. 
 1. Wrap it in plastic wrap and refrigerate for at least 30 minutes, ideally 2 hours. 
 1. Remove the dough from the fridge onto a well-floured surface. Pound it out with a rolling pin and then roll it out until it’s 6 millimeters thick.
