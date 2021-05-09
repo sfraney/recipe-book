@@ -17,7 +17,7 @@ $DIR/docker_spin.sh
 
 # Commit generated pages
 git add $DIR/../public
-git commit -a -m "Generate"
+git commit -m "Generate"
 
 # Push subtree to site
 cd $DIR/..
