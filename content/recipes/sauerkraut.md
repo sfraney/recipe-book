@@ -6,7 +6,7 @@ date: 2020-05-09T18:25:52+00:00
 draft: false
 time: "2w+"
 tags: ["fundamental", "big batch"]
-#featured_image: 
+featured_image: /sauerkraut.jpg
 ---
 
 Based on Sandor Katz’s Wild Fermentation recipe. The website’s recipe has morphed a bit over time, but it’s based on about the simplest form of fermentation there is: add a specified concentration of pure salt to a vegetable and let it sit in a warm room under a bed of its own CO2. I would suggest reading the article thoroughly, rather than just relying on what I say. My process is tuned for my equipment, so I’m not going to mention much about alternatives. For example, the discussion of making sure the cabbage is covered by the saltwater solution is not something I’ll talk about because it’s just something that happens with my process without me needing to do anything active.

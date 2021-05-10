@@ -6,7 +6,7 @@ date: 2020-11-25T18:25:52+00:00
 draft: false
 time: ""
 tags: ["no recipe", "meat", "special occasion", "beef", "dry brine"]
-featured_image: 
+featured_image: /prime-rib-prep.jpg
 ---
 
 I’ve been doing pretty well almost exclusively making vegetarian dishes for the better part of two months, but it’s getting into the holiday season and it wouldn’t be the same without at least a couple meals featuring meat. I learned that my Halloween chili doesn’t work as vegetarian chili, but I have no delusions as to Thanksgiving or Christmas meals; they will be centered around meat. The tentative plan is prime rib for Thanksgiving (I am perfectly happy not eating turkey all year) and lamb for Christmas.
