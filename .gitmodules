@@ -1,0 +1,3 @@
+[submodule "themes/recipes"]
+	path = themes/recipes
+	url = git@github.com:sfraney/recipe-book-theme.git
