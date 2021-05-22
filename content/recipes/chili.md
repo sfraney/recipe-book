@@ -5,7 +5,7 @@ summary: "Maybe my favorite food of all time"
 date: 2020-05-05T18:25:52+00:00
 draft: false
 time: "4h (~45m active)"
-tags: ["dinner", "soup"]
+tags: ["favorite", "dinner", "soup"]
 #featured_image: 
 ---
 
