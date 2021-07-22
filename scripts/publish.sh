@@ -13,7 +13,7 @@ pwd
 
 # Spin up docker to generate static pages w/ Hugo
 #docker run --rm -e TZ=America/Los_Angeles --net=host -v /home/sean/cooking_blog:/cooking_blog --user 1000:1000 hugo-alpine:1.0
-$DIR/docker_spin.sh
+$DIR/docker_spin.sh hugo
 
 # Commit generated pages
 git add $DIR/../public
