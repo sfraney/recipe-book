@@ -4,7 +4,7 @@ description: ""
 summary: "Very flavorful fermented pickle recipe"
 date: 2021-03-20T18:25:52+00:00
 draft: false
-time: ""
+time: "4w"
 tags: ["fermentation"]
 featured_image: 
 ---
