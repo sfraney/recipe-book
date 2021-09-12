@@ -76,11 +76,7 @@ The top 6 have pretty widespread support in the house. The Soondubu Jjigae only 
 1. [Lentil soup](https://www.seriouseats.com/recipes/2014/10/easy-lentil-soup-parsley-garlic-lemon-gremolata-recipe.html "Lentil soup") - oh yeah, this is very good.  Sort of a staple around the house now.  Using homegrown parsely takes it up a notch.
 1. [Gazpacho](https://www.seriouseats.com/recipes/2011/08/andalusian-gazpacho-recipe.html "Gazpacho") – very good, even though we didn’t have really ripe tomatoes (they were late January, not-so-ripe tomatoes) and the 30 minutes in the freezer wasn’t enough to actually freeze the vegetables
 1. [Broccoli Cheese Soup]({{< ref "broccoli-cheese-soup" >}} "Broccoli Cheese Soup") – minor tweak on Kenji’s that’s a small improvement on the nutrition of our house recipe with a nice little incorporation of cheddar flavor. Pairs very well with [Mama Star garlic chili oil](https://mamastarchilioil.com/product/combo-chili-oil/ "Mama Star combo chili oil").
-1. Tofu Tortilla Soup – modified version of [Kenji’s Real Deal Tortilla Soup](https://www.seriouseats.com/recipes/2012/08/real-deal-tortilla-soup-recipe.html "Real Deal Tortilla Soup")
-   - Replaced chicken stock with vegetable scrap stock
-   - Replaced chicken with tofu, fried to crispy crust
-   - Replaced fresh corn & corn “milk” with canned corn and liquid
-   - Didn’t have the time to add beans
+1. [Tofu Tortilla Soup]({{< ref "tortilla-soup" >}} "Tofu Tortilla Soup")
 1. [Spicy Ginger and Carrot Soup](https://www.seriouseats.com/recipes/2014/01/spicy-carrot-and-ginger-soup-with-harissa.html "Spicy Ginger and Carrot Soup")
 1. [Soondubu Jjigae](https://www.seriouseats.com/recipes/2012/02/soondubu-jjigae-korean-soft-tofu-stew-recipe.html "Soondubu Jjigae") – Good for when the one person in the house that doesn't like it, is away - See below for some sides I want to include next time I make this (from https://www.koreanbapsang.com/15-korean-vegetable-side-dishes/)
    1. [Gamja Jorim](https://www.koreanbapsang.com/gamja-jorim-braised-potatoes/ "Gamja Jorim") (Korean Braised Potatoes)
