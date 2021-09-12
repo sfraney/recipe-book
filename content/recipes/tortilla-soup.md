@@ -9,11 +9,11 @@ tags: ["vegetarian"]
 featured_image: 
 ---
 
-From: [Serious Eats](https://www.seriouseats.com/real-deal-tortilla-soup-recipe "Real Deal Tortilla Soup Recipe")
+From [Kenji's Real Deal Tortilla Soup Recipe](https://www.seriouseats.com/real-deal-tortilla-soup-recipe "Real Deal Tortilla Soup Recipe")
 
 ## Ingredients
 
-- 2 quarts homemade vegetable scrap stock (or other stock, if necesary)
+- 2 quarts [homemade vegetable scrap stock](https://www.seriouseats.com/save-your-vegetable-scraps-make-stock "Save Your Vegetable Scraps, Make Stock") (or other stock, if necesary)
 - 1 package (12 oz.?) firm tofu
 - 1 large onion, split in half, plus 1 large onion, finely diced (about 1 1/2 cups)
 - 2 ears of corn, shucked, kernels removed from cobs, milk scraped from empty cobs
