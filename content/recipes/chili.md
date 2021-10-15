@@ -18,7 +18,7 @@ Based on Kenji’s “Best Short-Rib Chili” from the Food Lab.
 - 1 large onion, finely diced
 - 4 cloves garlic
 - 1 T fresh oregano
-- 1 C chili paste
+- 1 C [chili paste]({{< ref "red-chili-sauce" >}})
 - ~4 C chicken stock (I really just add until I feel like the chili is getting too thin, then rely on some thickening during the cooking)
 - 4 anchovy filets, mashed into a paste (?? t anchovy paste)
 - 1 t Marmite
