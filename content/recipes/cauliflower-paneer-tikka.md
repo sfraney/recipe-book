@@ -25,7 +25,7 @@ From [YouTube Video](https://www.youtube.com/watch?v=ns6jz_MbV0E)
 - 1 teaspoon coriander powder
 - 1 teaspoon turmeric powder
 - 1 teaspoon cinnamon powder
-- ½ teaspoon garam masala powder
+- ½ teaspoon [garam masala]({{< ref "garam-masala" >}}) powder
 - Salt to taste
 - 2 teaspoons mustard seeds
 - ~1 T dried or bunch of fresh basil (replaces 6-8 curry leaves)
