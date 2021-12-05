@@ -16,9 +16,13 @@ pwd
 $DIR/docker_spin.sh hugo
 
 # Commit generated pages
-git add $DIR/../public
-git commit -m "Generate"
+#git add $DIR/../public
+#git commit -m "Generate"
+cd public
+git add *
+git commit -a -m "Generate"
 
-# Push subtree to site
-cd $DIR/..
-$DIR/push_public.sh
+# Push submodule to site
+#cd $DIR/..
+#$DIR/push_public.sh
+#git push
