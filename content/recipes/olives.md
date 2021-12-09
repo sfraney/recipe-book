@@ -5,7 +5,7 @@ summary: "How to brine olives"
 date: 2021-12-08T18:25:52+00:00
 draft: false
 time: "1 month"
-tags: []
+tags: ["fermentation"]
 featured_image: 
 ---
 
