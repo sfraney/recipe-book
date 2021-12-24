@@ -1,10 +1,10 @@
 ---
 title: "Sous Vide Garlic, Sherry, Paprika Shrimp"
-description: ""
+description: "Perfectly-cooked shrimp with a wonderful smokey paprika flavor"
 summary: "Simple shrimp recipe"
 date: 2021-11-07T18:25:52+00:00
 draft: false
-time: ""
+time: "1h"
 tags: ["shrimp"]
 featured_image: 
 ---
@@ -31,3 +31,7 @@ Looking for a Spanish recipe to go with Tortilla Espanola, I found [this on Seri
 1. Place shrimp in a heavy duty zipper-lock bag or a vacuum bag. Pour in oil/garlic mixture. Remove all air from bag using the water displacement method or a vacuum sealer. Press shrimp into a single layer.
 1. Add bagged shrimp to preheated water bath and cook for at least 15 minutes and up to 1 hour (the texture should show very little variation within this time frame).
 1. Pour cooked shrimp and sauce into a warm bowl and serve. Alternatively, preheat a cast iron skillet over high heat until a bead of water dropped in sizzles immediately. Place on a trivet and pour in the shrimp/oil mixture. Serve immediately, passing bread for sopping up the extra sauce.
+
+## Impressions
+
+This is very good.  I love the texture of the shrimp from the sous vide.  It might be a little on the soft side for some tastes, but I really like it.  The obvious, wonderful paprika flavor really challenges the claim that paprika doesn't contribute flavor and we don't have any special kind of paprika (so following the actual recipe would probably be even better).
