@@ -14,7 +14,7 @@ Modified from [Kenji's 'Best Buffalo Wings Recipe](https://www.seriouseats.com/u
 ## Ingredients
 
 - enough tallow to get about 1" depth in your frying pan
-- 2 pounds chicken wings, cut into drumettes and flats
+- 2 pounds chicken wings, cut into drumettes and flats, optionally salted and left to air dry on rack-lined rimmed baking sheet in refrigerator for ~8 hours
 - 4 tablespoons (1/2 stick) unsalted butter
 - TBD: Sauces
   - ~~1/2 cup base hot sauce (Frank's, etc.)~~
