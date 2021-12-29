@@ -9,6 +9,8 @@ tags: ["chicken"]
 featured_image: 
 ---
 
+From [Portland Monthly](https://www.pdxmonthly.com/eat-and-drink/2013/10/make-pok-poks-famous-wings-at-home-october-2013) augmented with Kenji's tempura batter mix recipe from _The Food Lab_.
+
 ## Ingredients
 
 ### Sauce & Marinade
@@ -22,7 +24,10 @@ featured_image:
 ### Frying
 - Oil for frying
 - 1 cup white rice flour (_not_ glutinous rice flour)
-- ¼ cup tempura batter mix
+- ¼ cup tempura batter mix:
+  - 1/8 cup cornstarch
+  - 1/8 cup all-purpose flour
+  - Light pinch kosher salt
 
 ### Finishing
 - ¼ cup water
