@@ -19,10 +19,12 @@ featured_image:
 - ½ cup superfine sugar
 - 2 pounds medium-size chicken wings (about 12), split at the joint
 
-### Frying and Finishing
+### Frying
 - Oil for frying
 - 1 cup white rice flour (_not_ glutinous rice flour)
 - ¼ cup tempura batter mix
+
+### Finishing
 - ¼ cup water
 - 1 to 2 teaspoons Naam Phrik Phao (Roasted chile paste) (optional)
 
@@ -44,7 +46,7 @@ featured_image:
 
 1. Pour enough of the oil into a wok, Dutch oven, or wide pot to reach a depth that will submerge about half the wings, about 1 inch. Set the pot over medium-high heat, bring the oil to 350°F (use a deep-fry thermometer), carefully stirring the oil to maintain a consistent temperature, and adjust the heat to maintain the temperature.
 
-1. In a large mixing bowl, stir together the rice flour and tempura batter.
+1. In a large mixing bowl, stir together the rice flour and tempura batter mix.
 
 1. Fry the wings in two batches. Toss half the wings in the flour mixture to coat them well and knock them against the edge of the bowl so any excess flour falls off before adding them to the hot oil. Add the first batch to the oil and cook, flipping the wings after 4 minutes or so, frying until they’re evenly deep golden brown and completely cooked through, 6 to 8 minutes. After 6 to 8 minutes, flip every minute or so until proper appearance and cooking are achieved.  Transfer them to paper towels to drain, let the oil come back to 350°F, and do the same with the next batch.
 
