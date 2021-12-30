@@ -5,7 +5,7 @@ summary: "Famous fried wings from Pok Pok"
 date: 2021-12-28T12:52:52+00:00
 draft: false
 time: "1h active, 8h passive"
-tags: ["chicken"]
+tags: ["chicken", "fried", "meat", "fried"]
 featured_image: 
 ---
 
@@ -31,7 +31,7 @@ From [Portland Monthly](https://www.pdxmonthly.com/eat-and-drink/2013/10/make-po
 
 ### Finishing
 - ¼ cup water
-- 1 to 2 teaspoons Naam Phrik Phao (Roasted chile paste) (optional)
+- 1 to 2 teaspoons [Naam Phrik Phao]({{< ref "naam-phrik-phao" >}}) (Roasted chile paste) (optional)
 
 ## Process
 
@@ -66,3 +66,7 @@ From [Portland Monthly](https://www.pdxmonthly.com/eat-and-drink/2013/10/make-po
 1. Rinse and wipe out the wok, and repeat with another ¼ cup of the liquid, the remaining chile paste, the remaining wings, and the remaining tablespoon of fried garlic.
 
 1. Serve the wings with the pickled vegetables, cucumber spears, and herb sprigs.
+
+## Impressions
+
+These were very good.  In fact, I remember having these wings (the spicy version) at the original restaurant and they were neither as tasty as the ones I made with this recipe, nor were they as spicy.  Definitely worth making again in the future.
