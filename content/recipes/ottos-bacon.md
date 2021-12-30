@@ -6,7 +6,7 @@ date: 2020-01-25T18:23:12+00:00
 draft: false
 time: "days"
 tags: ["curing", "meat", "pork", "smoking"]
-#featured_image: "/general-tsos-tofu.jpg"
+featured_image:
 ---
 
 Reading through and trying some of Kenji’s recipes from The Food Lab, I wanted to make his All-Belly Porchetta (because everything else was awesome!). We don’t typically have pork belly in the house, so it became a grocery store request. The next time at the store, my wife asked the butcher for some, he didn’t have the size requested in the recipe (turns out that was a good thing), but she came away with ~4 lbs. of it. Despite not being big fans of the porchetta that came out of it, when she happened to see pork belly on sale at Costco (of course they were the 8+ lb. variety asked for in the porchetta recipe), she snapped up 3 of them (or was it 4?).

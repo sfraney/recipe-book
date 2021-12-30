@@ -5,7 +5,7 @@ summary: "Food magic"
 date: 2020-05-09T18:25:52+00:00
 draft: false
 time: "2w+"
-tags: ["favorite", fermentation, "fundamental", "big batch"]
+tags: ["favorite", fermentation, "fundamental", "big batch", "pictures"]
 featured_image: /sauerkraut.jpg
 ---
 
