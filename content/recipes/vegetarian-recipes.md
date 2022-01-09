@@ -16,18 +16,7 @@ The top 7 of this list will possibly become family staples. The rest didn’t ga
 1. [Mejadra](https://www.seriouseats.com/recipes/2012/11/mejadra-from-jerusalem.html "Mejadra")
    - Major ingredients: Lentils, Rice
    - Preparation notes: Frying onions may splatter => use splatter protection (e.g., wok w/ frywall)
-1. Cauliflower General Tso’s – variant of [Kenji's The Best General Tso's Chicken](https://www.seriouseats.com/recipes/2014/04/the-best-general-tsos-chicken-food-lab-chinese-recipe.html "The Best General Tso's Chicken")
-   - This is so good! I want to put it up to #1, but need to let my excitement settle to get some perspective.
-     - The sauce and fried cauliflower are awesome by themselves and made better together
-     - Fried cauliflower has a great crunchiness and the little chunks of fried dredge that stick to them are so good
-     - Sauce has a good sweetness without being cloying (like Kenji was going for) and it’s got some heat without being overwhelming
-   - Replace chicken with 1 large head of cauliflower cut into bite sized pieces
-   - Don’t put as much marinade in the dredge as the recipe says
-     - Ended up with large chunks and had to add flour to get the right consistency (luckily there was a picture of what we were going for)
-     - The amount of marinade (with 1/2 in the dredge) was a good amount => if using less in the dredge, could probably get away with making less marinade
-       - OTOH, the amount of dredge was about right with adding ~1/4 C of flour so maybe it just worked out right with our modifications
-   - 2 arbols is plenty (I would be fine with ~4 but more sensitive mouths would prefer no more than 2, and maybe even 1)
-   - Lots of work and messy, but definitely worth it.
+1. [Cauliflower General Tso’s]({{< ref "cauliflower-general-tso" >}})
 1. [Falafel](https://www.seriouseats.com/recipes/2016/03/the-food-lab-vegan-experience-best-homemade-falafel-recipe.html "Falafel")
    - Major ingredients: Chickpeas, Cilantro/Parsley/Mint mixture
    - Preparation notes: Requires soaking chickpeas
