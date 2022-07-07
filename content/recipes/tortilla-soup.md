@@ -5,7 +5,7 @@ summary: "Awesome vegetarian soup with lots of flavor"
 date: 2021-09-12T21:14:52+00:00
 draft: false
 time: "1.5h"
-tags: ["vegetarian"]
+tags: ["vegetarian", "soup", "chili pepper", "dinner", "entree", "favorite", "soup", "tofu"]
 featured_image: 
 ---
 
