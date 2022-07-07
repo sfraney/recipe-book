@@ -13,7 +13,12 @@ Tonight, I collected a list of the CSA vegetables that we have sitting around an
 
 The following recipes are presented in order of preparation. If made in this order, everything ends up being done at about the same time.
 
-# Vegetarian Baeckoffe
+- [Vegetarian Baeckoffe](#vegetarian-baeckoff)
+- [Dilled Zucchini](#dilled-zucchini)
+- [Black Kale Gratin](#black-kale-gratin)
+- [Kohlrabi Puree](#kohlrabi-puree)
+
+# Vegetarian Baeckoffe {#vegetarian-baeckoff}
 
 ## Ingredients
 - 1 tablespoon butter
@@ -44,7 +49,7 @@ The following recipes are presented in order of preparation. If made in this ord
 1. Cover and bake at 350° for 40 minutes.
 1. Uncover and bake an additional 20 minutes or until vegetables are tender and cheese begins to brown.
 
-# Black Kale Gratin
+# Black Kale Gratin {#black-kale-gratin}
 
 ## Ingredients
 
@@ -68,7 +73,7 @@ The following recipes are presented in order of preparation. If made in this ord
 1. Stir in the eggs and cream and season with salt and pepper.  Turn the mixture into an 8×8 baking dish.
 1. Bake for 20-30 minutes.  If the top isn’t golden and bubbly, broil for a minute or two.
 
-# Kohlrabi Puree
+# Kohlrabi Puree {#kohlrabi-puree}
 Like mashed kohlrabi
 
 ## Ingredients
@@ -89,7 +94,7 @@ Like mashed kohlrabi
 1. Drain the kohlrabi chunks and place them in the bowl of a food processor. Add the mushroom mixture and all the remaining ingredients. Purée until smooth.
 1. Transfer the purée to a saucepan and reheat over low heat, stirring, 2 minutes.
 
-# Dilled Zucchini
+# Dilled Zucchini {#dilled-zucchini}
 
 ## Ingredients
 
