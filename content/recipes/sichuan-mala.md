@@ -1,7 +1,7 @@
 ---
 title: "Sichuan Málà (Hot and Numbing) Chile Oil"
-description: "Homemade chile oil"
-summary: ""
+description: ""
+summary: "Homemade chile oil"
 date: 2022-07-10T16:48:52+00:00
 draft: false
 time: "45m (20m active)"
