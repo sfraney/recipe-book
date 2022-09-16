@@ -1,7 +1,7 @@
 ---
-title: "BLISTERED GREEN BEAN FRIED RICE"
+title: "Blistered Green Bean Fried Rice"
 #description: ""
-summary: "BLISTERED GREEN BEAN FRIED RICE"
+summary: "Get a neat balance of flavors while using up some green bean bounty"
 date: 2022-09-15T17:30:52+00:00
 draft: false
 time: "1h"
@@ -17,9 +17,9 @@ From [The Wok: Recipes and Techniques](http://www.kenjilopezalt.com/books)
 - 5 tablespoons (75 ml) peanut, rice bran, or other neutral oil
 - 2 large eggs, lightly beaten
 - 8 ounces (225 g) yard-long or green beans, trimmed and cut into ¾-inch pieces
-- 2 scallions, thinly sliced
+- 2 scallions, thinly sliced (I successfully substituted finely-minced white onion)
 - 2 medium garlic cloves, minced (about 2 teaspoons/5 g)
-- 1 to 3 fresh Thai bird chiles (to taste), thinly sliced, plus more for serving
+- 1 to 3 fresh Thai bird chiles (to taste) (I've successfully substituted banana pepper), thinly sliced, plus more for serving
 - 1 teaspoon (5 ml) light soy sauce or shoyu
 - 1 teaspoon (5 ml) fish sauce, plus more for serving
 - 1 ounce (30 g) Thai or sweet Italian basil leaves, roughly torn
@@ -42,3 +42,9 @@ From [The Wok: Recipes and Techniques](http://www.kenjilopezalt.com/books)
 1. Return the wok to high heat until lightly smoking. Add the remaining tablespoon (15 ml) oil and swirl to coat. Add the rice and cook, stirring and tossing, until the rice is pale brown and toasted and has a lightly chewy texture, about 3 minutes). Add the scallions, garlic, and chiles and stir-fry until fragrant, about 30 seconds.
 
 1. Return the beans and egg to the wok, using the spatula to break up the egg into small pieces as you toss everything together. Add the soy sauce, fish sauce, and basil. Season with salt, white pepper, and sugar to taste. Transfer to a serving platter and serve immediately with lime and cucumber.
+
+## Impressions
+
+This was awesome. I wish I'd made twice as much (we had the ingredients for it). The combination of soy sauce and fish sauce was nice. The squeezed lime was really great. And the textural contrast of the fresh cucumber slices (and hot peppers - I used what looked like a banana pepper from the CSA) was nice.
+
+Normally we would have just used lemon juice rather than fresh squeezed lime. I think that would have been fine, but the lime was really great, too.
