@@ -1,7 +1,7 @@
 ---
 title: "Phat Phrik Khing With Tofu and Long Beans"
 #description: ""
-summary: ""
+summary: "Yummy beans, tofu, and curry sauce"
 date: 2022-09-25T18:55:52+00:00
 draft: false
 time: ""
