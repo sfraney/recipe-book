@@ -2,7 +2,7 @@
 title: "Soondubu Jjigae"
 #description: ""
 summary: "Nice sour soup"
-date: 2022-04-22T16:37:52+00:00
+date: 2022-04-23T16:37:52+00:00
 draft: false
 time: "1.5h"
 tags: ["kimchi", "soup", "tofu", "vegetarian"]
