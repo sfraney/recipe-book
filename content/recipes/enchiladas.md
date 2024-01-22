@@ -5,7 +5,7 @@ summary: "Flexible enchilada recipe"
 date: 2021-05-08T18:25:52+00:00
 draft: false
 time: "1h"
-tags: ["dinner"]
+tags: ["dinner", "chili pepper"]
 featured_image: 
 ---
 
@@ -13,9 +13,9 @@ Based, very loosely at this point, on [Kenji's Best Creamy Chicken Enchiladas Re
 
 ## Ingredients
 
-- ~2 cups [Chili Sauce]({{< ref "red-chili-sauce" >}})
+- ~2 cups [Chili Sauce]({{< ref "red-chili-sauce" >}}) or [Enchilada Sauce]({{< ref "enchilada-sauce" >}})
 - 1 cup loosely packed picked fresh cilantro leaves and fine stems, plus chopped cilantro for garnish
-- 2 lbs. protein: refried beans, cooked beans, tofu, shredded chicken, etc.
+- 2 lbs. protein: refried beans, cooked beans, canned beans, tofu, shredded chicken, etc.
 - ~6 tortillas (corn or flour)
 - 8 ounces shredded pepper Jack cheese, divided
 - 1 cup Mexican-style crema, recipe below if you don't have it ready-made
