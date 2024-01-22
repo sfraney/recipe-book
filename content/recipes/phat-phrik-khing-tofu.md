@@ -16,6 +16,7 @@ Adapted, by using pre-made Maesri red curry paste, from [Serious Eats](https://w
 - 3 tablespoons (45ml) vegetable oil or coconut oil
 - 1 (12-ounce; 340g) block firm tofu, cut into 1- by 1- by 1/2-inch squares, pressed firmly between paper towels
 - 1 pound (450g) green beans or long beans, trimmed and cut into 1 1/2-inch lengths
+- [Maesri prik khing or red curry paste](http://www.maesribrand.com/114g.html), to taste (1/2 to 1 can; 2 oz. to 4 oz.)
 - 1 tablespoon (14g) sugar
 - 1 tablespoon (15ml) soy sauce
 - Steamed jasmine rice, for serving
