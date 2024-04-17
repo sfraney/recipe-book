@@ -1,4 +1,4 @@
-baseURL = "https://sfraney.github.io/"
+baseURL = "https://sfraney.github.io/recipe-book"
 languageCode = "en-us"
 title = "Makn Food"
 theme = "recipes"
