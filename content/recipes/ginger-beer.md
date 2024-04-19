@@ -15,11 +15,11 @@ featured_image:
 - ~20 g sugar
 - 2 C filtered water
 
-### For Drink
-- 2 Q filtered water
-- 275 g sugar
-- 54 g ginger, grated
-- 110 g strained starter liquid
+### For Drink (fills 1 Mr. Beer bottle)
+- 28 oz. filtered water
+- 120 g sugar
+- 57 g ginger, grated
+- 55 g strained starter liquid
 
 ## Process
 ### For Starter
