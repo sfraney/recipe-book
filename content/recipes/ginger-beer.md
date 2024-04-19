@@ -19,7 +19,7 @@ featured_image:
 - 28 oz. filtered water
 - 120 g sugar
 - 57 g ginger, grated
-- 55 g strained starter liquid
+- 110 g strained starter liquid
 
 ## Process
 ### For Starter
