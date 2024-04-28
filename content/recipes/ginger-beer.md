@@ -18,7 +18,7 @@ featured_image:
 ### For Drink (fills 1 Mr. Beer bottle)
 - 28 oz. filtered water
 - 120 g sugar
-- 57 g ginger, grated
+- 57 g ginger, grated on a microplane
 - 110 g strained starter liquid
 
 ## Process
@@ -34,3 +34,9 @@ featured_image:
 1. Pour in to sealable - preferably plastic - bottles.
 1. Let sit at room temperature until bottles are proper carbonation.
 1. Place in fridge, cool, and enjoy.
+
+## Impressions
+
+First of all, it takes a few days to carbonate. The plastic bottle I was carbonating in (one from [Mr. Beer](https://www.mrbeer.com "Mr. Beer") kit) was still not carbonated enough when the sides were pretty firm (just a bit of deflection).
+
+Strong ginger bite, but not more than [Q Ginger Beer](https://qmixers.com/our-mixers/ginger-beer/ "Q Ginger Beer"). It seemed really strong after cooling off the stove, but after some carbonation, it actually didn't seem too bad. It's a little too sweet though, so I think I'll take down the sugar a bit next time.
