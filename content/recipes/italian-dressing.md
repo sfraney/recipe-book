@@ -1,6 +1,6 @@
 ---
 title: "Italian Dressing"
-summary: "Through some herbs in with oil & vinegar"
+summary: "Throw some herbs in with oil & vinegar"
 date: 2024-04-29T09:35:52+00:00
 draft: false
 time: "10m"
