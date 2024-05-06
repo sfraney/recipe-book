@@ -30,6 +30,7 @@ Combination of recipes from [here](https://thewoksoflife.com/dan-dan-noodles/#re
 - 1/4 t MSG
 - 2 cloves garlic, minced
 - 1/4 C minced preserved mustard root or stem (ya cai or zha cai)
+  - Maybe rinse to cut down on saltiness
 - 2 t sweet bean sauce or hoisin
 
 ### To Serve
@@ -50,3 +51,6 @@ Combination of recipes from [here](https://thewoksoflife.com/dan-dan-noodles/#re
 1. Cook noodles according to package directions. Add greens for the last 30 seconds to blanch.
 1. If the sauce is too thick, add some noodle water to thin.
 1. Mix noodles and greens with sauce in bowls. Top with meat mixture, chopped peanuts, and scallions.
+
+## Impressions
+Too salty, especially the meat topping. Next time, I will rinse the ya cai, I think (reflected in the recipe now). Otherwise, pretty good.
