@@ -15,9 +15,16 @@ My starter isn't cutting it from my [ginger beer]({{< ref "ginger-beer" >}}) rec
 - 120 g sugar
 - 57 g ginger, grated on a microplane
 
+### Honey Alternate
+To substitute sugar for honey: substitue 2/3 cup honey for every cup of sugar and decrease other liquids by 1/4 cup [source](https://www.atcoblueflamekitchen.com/en-ca/how-to/substitute-honey-sugar.html)
+
+- 85 ml filtered water
+- 80 g honey
+- 57 g ginger, grated on a microplane
+
 ## Process
 1. Heat water to simmer
-1. Add sugar and mix until dissolved
+1. Add sweetener (sugar, honey, etc.) and mix until dissolved
 1. Add ginger and remove from heat
 1. Let cool to room temperature
 1. Strain through fine mesh strainer into sealable container, pressing out the juices
