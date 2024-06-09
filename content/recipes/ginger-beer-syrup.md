@@ -16,10 +16,12 @@ My starter isn't cutting it from my [ginger beer]({{< ref "ginger-beer" >}}) rec
 - 57 g ginger, grated on a microplane
 
 ## Process
-1. Combine water, sugar, and grated ginger in stock pot, bring to a simmer then cut heat. Let cool to room temperature.
-1. Strain through fine mesh strainer. Press out juices.
-1. Pour in to sealable - preferably plastic - bottles.
-1. Place in fridge, cool, and enjoy.
+1. Heat water to simmer
+1. Add sugar and mix until dissolved
+1. Add ginger and remove from heat
+1. Let cool to room temperature
+1. Strain through fine mesh strainer into sealable container, pressing out the juices
+1. Store in fridge until [use](#to-use)
 
 ## To use
 - Add ~1/4 of syrup to each 12 oz. of seltzer
