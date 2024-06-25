@@ -31,4 +31,5 @@ To substitute sugar for honey: substitue 2/3 cup honey for every cup of sugar an
 1. Store in fridge until [use](#to-use)
 
 ## To use
-- Add ~1/4 of syrup to each 12 oz. of seltzer
+- Add 1.5 to 2 shot glasses of syrup to each 16 oz. of seltzer
+  - Adjust to taste over multiple uses or add gradually
