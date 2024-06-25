@@ -10,6 +10,8 @@ featured_image: /penne-sausage.png
 
 Adapted from [here](https://www.wfmynews2.com/article/life/food/recipes/from-the-news-2-kitchen/recipes-with-harpers-restaurant-six-cheese-penne-pasta-with-italian-sausage/83-297930751) and [here](http://www.ouichefnetwork.com/2013/12/penne-with-sausage-fennel-and-pecorino.html), using pasta cooking techniques from (Serious Eats' Aglio e Olio)[https://www.seriouseats.com/spaghetti-aglio-olio-recipe], trying to recreate "Penne & Fennel Sausage in 6-Cheese Cream" from a local Italian restaurant - [Degario's](https://www.degariosristorante.com/) ([picture](https://maps.app.goo.gl/EgUn1DDk8N9ro8T4A)).
 
+Featured image from [Google](https://maps.app.goo.gl/EgUn1DDk8N9ro8T4A).
+
 ## Ingredients
 (~1/2 of original)
 
