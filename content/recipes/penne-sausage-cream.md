@@ -1,5 +1,5 @@
 ---
-title: ""Penne & Fennel Sausage in 6-Cheese Cream"
+title: "Penne & Fennel Sausage in 6-Cheese Cream"
 summary: "Trying to recreate good dish from local restaurant"
 date: 2024-06-24T18:45:52+00:00
 draft: false
