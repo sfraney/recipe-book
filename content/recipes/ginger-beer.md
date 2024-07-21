@@ -5,7 +5,7 @@ summary: "Mixes really well with liquor"
 date: 2024-01-27T11:27:52+00:00
 draft: false
 time: ""
-tags: ["fermented"]
+tags: ["fermentation"]
 featured_image: 
 ---
 
