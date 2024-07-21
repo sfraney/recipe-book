@@ -6,7 +6,7 @@ date: 2020-05-09T18:25:52+00:00
 draft: false
 time: "2w+"
 tags: ["favorite", fermentation, "fundamental", "big batch", "pictures"]
-featured_image: /sauerkraut.jpg
+featured_image: /recipe-book/sauerkraut.jpg
 ---
 
 Based on [Sandor Katz’s Wild Fermentation recipe](https://www.wildfermentation.com/making-sauerkraut-2 "Wild Fermentation - Sauerkraut").

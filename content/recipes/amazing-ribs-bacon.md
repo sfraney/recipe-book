@@ -6,7 +6,7 @@ date: 2020-01-25T17:50:33-00:00
 draft: false
 time: "days"
 tags: ["curing", "meat", "pork", "smoking", "pictures"]
-featured_image: "/amazing-ribs-bacon.jpg"
+featured_image: "/recipe-book/amazing-ribs-bacon.jpg"
 ---
 
 My second attempt at making bacon, based on the “Simple Bacon Recipe” at AmazingRibs.com

@@ -6,7 +6,7 @@ date: 2021-12-27T18:25:52+00:00
 draft: false
 time: "1h"
 tags: ["chicken", "fried", "pictures"]
-featured_image: /buffalo-wings.jpg
+featured_image: /recipe-book/buffalo-wings.jpg
 ---
 
 Modified from [Kenji's 'Best Buffalo Wings Recipe](https://www.seriouseats.com/ultimate-extra-crispy-double-fried-confit-buffalo-wings "Kenji's 'Best Buffalo Wings Recipe").

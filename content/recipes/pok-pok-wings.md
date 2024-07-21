@@ -6,7 +6,7 @@ date: 2021-12-28T12:52:52+00:00
 draft: false
 time: "1h active, 8h passive"
 tags: ["chicken", "fried", "meat", "fried", "pictures"]
-featured_image: /pok-pok-wings.jpg
+featured_image: /recipe-book/pok-pok-wings.jpg
 ---
 
 From [Portland Monthly](https://www.pdxmonthly.com/eat-and-drink/2013/10/make-pok-poks-famous-wings-at-home-october-2013) augmented with Kenji's tempura batter mix recipe from _The Food Lab_.

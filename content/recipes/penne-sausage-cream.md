@@ -4,7 +4,7 @@ summary: "Trying to recreate good dish from local restaurant"
 date: 2024-06-24T18:45:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat"]
+tags: ["Dinner", "Entree", "Meat", "Pictures"]
 featured_image: /recipe-book/penne_sausage.jpg
 ---
 
