@@ -1,6 +1,6 @@
 ---
 title: "Pork Ribs"
-summary: ""
+summary: "A favorite"
 date: 2024-08-19T23:46:52+00:00
 draft: false
 time: ""

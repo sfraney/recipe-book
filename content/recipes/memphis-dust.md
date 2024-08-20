@@ -1,6 +1,6 @@
 ---
 title: "Meathead's Memphis Dust"
-summary: ""
+summary: "Great on pork"
 date: 2024-08-19T23:59:52+00:00
 draft: false
 time: ""
