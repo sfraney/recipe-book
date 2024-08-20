@@ -13,7 +13,7 @@ From [AmazingRibs.com](https://amazingribs.com/best-barbecue-ribs-recipe/#recipe
 ## Ingredients
 
 - 1 slab ribs any cut (baby back, spare ribs, St. Louis cut)
-- 4 tablespoons [Meathead's Memphis Dust]({{< ref "memphis-dust" >}}) (see notes below if you would prefer to use our bottled pork rub)
+- 4 tablespoons [Meathead's Memphis Dust]({{< ref "memphis-dust" >}})
 - 2 teaspoons Diamond Crystal Coarse Kosher Salt (1/2 teaspoon per pound of meat)
 - 6 tablespoons barbecue sauce (optional)
 
