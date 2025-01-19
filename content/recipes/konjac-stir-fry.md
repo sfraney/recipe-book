@@ -38,7 +38,7 @@ We have some konjac noodles that have been sitting in the fridge for a long time
    Rinse the konjac noodles under warm water and drain thoroughly. Set aside.
 
 3. **Stir-fry the aromatics and vegetables**:  
-   In the same pan, add the sesame oil (1 tablespoon) and heat over medium-high heat. Add the sliced red onion and cook for 1-2 minutes until softened. Add the garlic and ginger, stir-frying for 30 seconds until fragrant. Add the sliced mushrooms and cook for 2-3 minutes until they release their moisture and brown.
+   In the same pan, add the sesame oil (1 tablespoon) and heat over medium-high heat. Add the sliced mushrooms and cook for 2-3 minutes until they release their moisture and begin to brown. Add the sliced red onion and cook for 1-2 minutes until softened. Add the garlic and ginger, stir-frying for 30 seconds until fragrant.
 
 4. **Combine the ingredients**:  
    Add the bok choy to the pan and stir-fry for another 2 minutes. Add the drained konjac noodles and cooked tofu. Toss gently to mix.
