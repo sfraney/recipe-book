@@ -4,7 +4,7 @@ title: "Konjac Noodle Stir Fry"
 summary: "A healthy and savory stir-fry featuring konjac noodles, tofu, bok choy, mushrooms, and ginger."
 date: 2025-01-18T18:01:52+00:00
 draft: false
-time: ""
+time: "1h"
 tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Wok"]
 featured_image: 
 ---
