@@ -10,7 +10,7 @@ featured_image:
 
 Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.com/the-pizza-lab-three-doughs-to-know)
 
-## **1. [Neapolitan-Style Pizza Dough](https://www.seriouseats.com/basic-neapolitan-pizza-dough-recipe}**
+## **1. [Neapolitan-Style Pizza Dough](https://www.seriouseats.com/basic-neapolitan-pizza-dough-recipe)**
 
 ### **Ingredients**
 
@@ -23,19 +23,22 @@ Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.co
 ### **Instructions**
 
 1. Combine all ingredients in a large bowl.
-2. Mix until no dry flour remains. No-knead mixing is sufficient.
-3. Cover the bowl and let the dough undergo a long cold ferment in the refrigerator for at least 3 days, up to 5 days.
-4. Before baking, allow the dough to come to room temperature.
-5. Shape and bake using high-temperature methods such as:
+1. Mix until no dry flour remains. No-knead mixing is sufficient.
+1. Cover bowl tightly with plastic wrap and allow to rise at room temperature for 8 to 12 hours.
+1. Turn dough out onto lightly floured surface and divide into four even balls.
+1. Place each in a covered quart-sized deli container or in a zipper-lock freezer bag.
+1. Place in refrigerator and allow to rise at least 2 more days, and up to 4.
+1. Remove from refrigerator, shape into balls, and allow to rest at room temperature for at least 2 hours before baking.
+1. Shape and bake using high-temperature methods such as:
     - Skillet-broiler method
     - Stove-top skillet pizza
     - Kettle-pizza grill insert
     - Directly on grill grates
-6. Bake at ultra-high temperatures (900°F if possible) for about 90 seconds until puffed and leopard-spotted.
+1. Bake at ultra-high temperatures (900°F if possible) for about 90 seconds until puffed and leopard-spotted.
 
 ---
 
-## **2. [New York-Style Pizza Dough](https://www.seriouseats.com/basic-new-york-style-pizza-dough)**[^3]
+## **2. [New York-Style Pizza Dough](https://www.seriouseats.com/basic-new-york-style-pizza-dough)**
 
 ### **Ingredients**
 
@@ -50,11 +53,13 @@ Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.co
 ### **Instructions**
 
 1. Combine all ingredients in a stand mixer or food processor.
-2. Mix until a smooth dough forms (food processor is faster for gluten development).
-3. Let the dough rest for at least one day in the refrigerator for optimal results.
-4. Bring the dough to room temperature before shaping.
-5. Roll out into a thin crust, slightly thicker than Neapolitan-style.
-6. Bake at around 500°F for 12–15 minutes until golden brown with slight spotting.
+1. Mix until a smooth dough forms (food processor is faster for gluten development).
+1. Turn dough out onto lightly floured surface and divide into four even balls.
+1. Place each in a covered quart-sized deli container or in a zipper-lock freezer bag.
+1. Place in refrigerator and allow to rise at least 1 day and up to 5.
+1. Bring the dough to room temperature before shaping.
+1. Roll out into a thin crust, slightly thicker than Neapolitan-style.
+1. Bake at around 500°F for 12–15 minutes until golden brown with slight spotting.
 
 ---
 
@@ -62,18 +67,21 @@ Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.co
 
 ### **Ingredients**
 
-- High-protein bread flour (amount varies based on tray size)
-- Water (hydration level adjusted for desired texture)
-- Olive oil (for coating the tray and dough)
-- Salt
-- Instant yeast
-
+- 100% High-protein bread flour or all-purpose flour
+- 70% Water
+- 2 T extra virgin olive oil for the dough (more for the pan below)
+- 2% Salt
+- 1% Instant yeast
+- 1/2 cup minus 2 T extra virgin olive oil for the pan
 
 ### **Instructions**
 
-1. Combine all ingredients in a stand mixer until smooth.
-2. Transfer the dough directly to an oiled sheet tray—no rolling or stretching required.
-3. Spread and press the dough into the tray using your hands.
-4. Let it rise until it fills the tray and becomes airy.
-5. Top with garlic-heavy tomato sauce and mozzarella cheese.
-6. Bake at around 450°F until golden brown and crisp on the bottom.
+1. Combine all ingredients (except 1/2 cup olive oil for the pan) in a stand mixer until smooth.
+1. Pour remaining olive oil into rimmed 13x18 baking sheet and spread over entire inner surface with hands.
+1. Transfer the dough directly to the oiled sheet tray.
+1. Spread and press the dough into the tray using your hands.
+1. Cover tray with plastic wrap and allow to rise at room temperature until dough has spread out to touch nearly each rim of baking sheet, about 2 hours.
+1. 30 minutes before baking, adjust oven rack to middle position and preheat oven to 550°F.
+1. Carefully remove plastic wrap from pizza dough. Using oiled hands and being as gentle as possible to maintain air bubbles, push and stretch the dough into the corners of the pan by pressing out from the center and lifting each corner and stretching it beyond the edge of the pan. It should pull back until the pan is just filled with dough.
+1. Top pizza as desired and bake until bottom is crisp and top surface is bubbling, 15 to 20 minutes total.
+1. Allow to cool at room temperature for 5 minutes.
