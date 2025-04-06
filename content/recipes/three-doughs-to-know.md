@@ -8,9 +8,9 @@ tags: ["Pizza", "Dough", "Fundamental", "Italian"]
 featured_image: 
 ---
 
-Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.com/the-pizza-lab-three-doughs-to-know)[^1]
+Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.com/the-pizza-lab-three-doughs-to-know)
 
-## **1. Neapolitan-Style Pizza Dough**[^2]
+## **1. [Neapolitan-Style Pizza Dough](https://www.seriouseats.com/basic-neapolitan-pizza-dough-recipe}**
 
 ### **Ingredients**
 
@@ -35,7 +35,7 @@ Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.co
 
 ---
 
-## **2. New York-Style Pizza Dough**[^3]
+## **2. [New York-Style Pizza Dough](https://www.seriouseats.com/basic-new-york-style-pizza-dough)**[^3]
 
 ### **Ingredients**
 
@@ -58,7 +58,7 @@ Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.co
 
 ---
 
-## **3. Sicilian-Style Pizza Dough**[^4]
+## **3. [Sicilian-Style Pizza Dough](https://www.seriouseats.com/basic-square-pan-pizza-dough-recipe-sicilian-recipe)**
 
 ### **Ingredients**
 
@@ -77,11 +77,3 @@ Three pizza dough recipes from [Kenji @ Serious Eats](https://www.seriouseats.co
 4. Let it rise until it fills the tray and becomes airy.
 5. Top with garlic-heavy tomato sauce and mozzarella cheese.
 6. Bake at around 450°F until golden brown and crisp on the bottom.
-
-[^1]: https://www.seriouseats.com/the-pizza-lab-three-doughs-to-know
-
-[^2]: https://www.seriouseats.com/basic-neapolitan-pizza-dough-recipe
-
-[^3]: https://www.seriouseats.com/basic-new-york-style-pizza-dough
-
-[^4]: https://www.seriouseats.com/basic-square-pan-pizza-dough-recipe-sicilian-recipe
