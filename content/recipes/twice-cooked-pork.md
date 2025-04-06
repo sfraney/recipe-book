@@ -9,7 +9,7 @@ tags: ["Dinner", "Entree", "Meat", "Wok", "Pork", "Fat Rendering"]
 featured_image: 
 ---
 
-I wanted to use a pound of pork belly thawed in the fridge, but was afraid it was too fatty for [braised pork belly]({{< relref "braised-pork-belly.md" >}}) so I found this recipe - also from [The Woks of Life](https://thewoksoflife.com/twice-cooked-pork/) to hopefully render more of the fat first.
+I wanted to use a pound of pork belly thawed in the fridge, but was afraid it was too fatty for [braised pork belly]({{< relref "braised-pork-belly.md" >}}) so I found this recipe - also from [The Woks of Life](https://thewoksoflife.com/twice-cooked-pork/) - to hopefully render more of the fat first.
 
 ## Ingredients
 
