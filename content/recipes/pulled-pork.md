@@ -2,7 +2,7 @@
 title: "Pulled Pork"
 #description: ""
 summary: "Basic Pulled Pork Recipe from AmazingRibs.com"
-date: 2025-05-29T15:41:52+00:00
+date: 2025-04-29T15:41:52+00:00
 draft: false
 time: "20 minutes prep, 10 hours cooking"
 tags: ["Dinner", "Entree", "Meat", "Dry Brine", "Grill", "Barbecue", "Pork", "Smoking"]
