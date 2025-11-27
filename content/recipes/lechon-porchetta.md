@@ -45,9 +45,9 @@ We went to the Philippines just before Thanksgiving this year and saw what looke
 ### Roasting
 
 1. Preheat oven to 300°F. Place roll on a rack over a tray.
-1. Roast 2.5–3.5 hours until internal temp 165–175°F and meat is tender.
+1. Roast 3–4 hours, basting occasionally with the pan drippings, until internal temp reads 165-170°F on an instant-read thermometer and pork shows very little resistance to a knife or skewer, aside from the outer layer of skin.
 1. Increase oven to 475°F and roast 20–30 minutes until skin crisps and puffs. Rotate as needed for even color.
 
 ### Finish
 
-- Rest 15 minutes. Remove the lemongrass stalks before slicing. Slice and serve.
+- Rest at least 15 minutes. Remove the lemongrass stalks before slicing. Slice and serve.
