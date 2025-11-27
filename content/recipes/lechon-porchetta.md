@@ -21,6 +21,7 @@ We went to the Philippines just before Thanksgiving this year and saw what looke
 - 4–5 bay leaves
 - 1 tbsp soy sauce
 - 1–2 tbsp calamansi juice (key limes are a good substitute)
+- 1 tsp baking powder
 - Kitchen twine
 
 ## Process
@@ -33,9 +34,10 @@ We went to the Philippines just before Thanksgiving this year and saw what looke
 
 ### Assembly
 
-1. Season meat side with salt (~1% the weight of the belly[1](https://www.seriouseats.com/tips-for-seasoning-with-salt-11768648)[2](https://theblogjournal.com/how-much-salt-should-i-add-to-a-pound-of-meat/)), 2 tsp pepper, garlic, sliced onion, bay leaves, and lemongrass.
+1. Score the flesh side of the pork belly in a crosshatch pattern (about 1/4 inch deep) to increase surface area for seasoning and help the roll hold together.
+1. Season meat side with salt (~1% the weight of the belly[[1]](https://www.seriouseats.com/tips-for-seasoning-with-salt-11768648)[[2]](https://theblogjournal.com/how-much-salt-should-i-add-to-a-pound-of-meat/)), 2 tsp pepper, garlic, sliced onion, bay leaves, and lemongrass.
 1. Roll tightly, skin outside, and tie in 4–6 places.
-1. Pat skin very dry. Lightly brush with calamansi, then rub remaining salt and pepper. Brush a thin layer of soy sauce on skin for color.
+1. Pat skin very dry. Mix remaining salt, pepper, baking powder, calamansi juice, and soy sauce into a paste. Rub this mixture evenly over the entire skin surface.
 
 ### Drying (recommended)
 - Refrigerate uncovered at least 8 hours or overnight to dry the skin.
