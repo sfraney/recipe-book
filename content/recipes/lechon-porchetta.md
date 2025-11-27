@@ -1,5 +1,5 @@
 ---
-title: "Lechon Lempio (Filipino Porchetta)"
+title: "Lechon Liempo (Filipino Porchetta)"
 summary: "Rolled pork belly with lemongrass and shallots"
 date: 2025-11-27T13:12:52+00:00
 draft: false
