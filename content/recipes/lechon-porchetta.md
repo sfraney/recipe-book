@@ -3,7 +3,7 @@ title: "Lechon Liempo (Filipino Porchetta)"
 summary: "Rolled pork belly with lemongrass and shallots"
 date: 2025-11-27T13:12:52+00:00
 draft: false
-time: ""
+time: "8h (1h active)"
 tags: ["Dinner", "Entree", "Meat", "Dry Brine", "Special Occasion", "Roasting", "Pork"]
 featured_image: 
 ---
@@ -13,14 +13,13 @@ We went to the Philippines just before Thanksgiving this year and saw what looke
 ## Ingredients
 
 - 3–4 lb pork belly, skin-on, butterflied to even thickness
-- kosher salt (divided) - amounts in the steps
-- 1 tbsp black pepper (divided)
+- 1% weight of pork belly kosher salt (divided) [[1]](https://www.seriouseats.com/tips-for-seasoning-with-salt-11768648)[[2]](https://theblogjournal.com/how-much-salt-should-i-add-to-a-pound-of-meat/)
+- 2 tsp black pepper
 - 8–10 cloves garlic, minced
 - 1 medium red onion or 3–4 shallots, thinly sliced
 - 3–4 stalks lemongrass
-- 4–5 bay leaves
-- 1 tbsp soy sauce
-- 1–2 tbsp calamansi juice (key limes are a good substitute)
+- soy sauce (optional, for basting)
+- 1–2 tbsp calamansi juice - key limes are a good substitute
 - 1 tsp baking powder
 - Kitchen twine
 
@@ -34,10 +33,10 @@ We went to the Philippines just before Thanksgiving this year and saw what looke
 
 ### Assembly
 
-1. Score the flesh side of the pork belly in a crosshatch pattern (about 1/4 inch deep) to increase surface area for seasoning and help the roll hold together.
-1. Season meat side with salt (~1% the weight of the belly[[1]](https://www.seriouseats.com/tips-for-seasoning-with-salt-11768648)[[2]](https://theblogjournal.com/how-much-salt-should-i-add-to-a-pound-of-meat/)), 2 tsp pepper, garlic, sliced onion, bay leaves, and lemongrass.
+1. Pat skin very dry. Mix ~1/3 salt and baking powder together. Rub this mixture evenly over the entire skin surface. Allow ~30 minutes for salt to penetrate a bit.
+1. Flip belly over and score the flesh side in a crosshatch pattern (about 1/4 inch deep) to increase surface area for seasoning and help the roll hold together.
+1. Season meat side with remaining salt, pepper, garlic, calamansi juice, sliced onion, and lemongrass.
 1. Roll tightly, skin outside, and tie in 4–6 places.
-1. Pat skin very dry. Mix remaining salt, pepper, baking powder, calamansi juice, and soy sauce into a paste. Rub this mixture evenly over the entire skin surface.
 
 ### Drying (recommended)
 - Refrigerate uncovered at least 8 hours or overnight to dry the skin.
@@ -45,7 +44,7 @@ We went to the Philippines just before Thanksgiving this year and saw what looke
 ### Roasting
 
 1. Preheat oven to 300°F. Place roll on a rack over a tray.
-1. Roast 3–4 hours, basting occasionally with the pan drippings, until internal temp reads 165-170°F on an instant-read thermometer and pork shows very little resistance to a knife or skewer, aside from the outer layer of skin.
+1. Roast 3–4 hours, basting occasionally with the pan drippings (optionally with soy sauce neat the end), until internal temp reads 165-170°F on an instant-read thermometer and pork shows very little resistance to a knife or skewer, aside from the outer layer of skin.
 1. Increase oven to 475°F and roast 20–30 minutes until skin crisps and puffs. Rotate as needed for even color.
 
 ### Finish
