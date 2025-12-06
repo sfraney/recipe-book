@@ -50,3 +50,7 @@ We went to the Philippines just before Thanksgiving this year and saw what looke
 ### Finish
 
 - Rest at least 15 minutes. Remove the lemongrass stalks before slicing. Slice and serve.
+
+## Impressions
+
+This turned out really well. The only issues were that the belly was too small for all the stuff I put inside, so it didn't roll completely shut and there wasn't any real lemongrass flavor or aroma in the final product.
