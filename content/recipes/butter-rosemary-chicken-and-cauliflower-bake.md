@@ -12,9 +12,9 @@ Butter-Rosemary Chicken and Cauliflower Bake
 
 ## Ingredients
 
-- 4 to 6 bone-in, skin-on chicken thighs
-- 1 to 1½ lb riced cauliflower
-- 12 to 16 oz green beans, trimmed and cut if large
+- 1.25 lb. bone-in, skin-on chicken thighs
+- 10 oz. riced cauliflower
+- 10 oz. green beans, trimmed and cut if large
 - 3 tbsp butter, divided
 - 3 cloves garlic, minced
 - 1½ tsp fresh rosemary, finely chopped
