@@ -51,3 +51,7 @@ Butter-Rosemary Chicken and Cauliflower Bake
 
 - This stays intentionally light and roast-like rather than creamy.
 - If you want a touch more richness without cheese, a spoon or two of cream stirred into the cauliflower before baking works well.
+
+## Impression
+
+This was pretty good. Just enough for 4 people for dinner. In the oven, it seemed that it was still wet, but it wasn't too bad. A little less stock would probably be good, though.
