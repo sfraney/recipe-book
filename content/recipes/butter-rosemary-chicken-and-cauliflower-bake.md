@@ -31,21 +31,21 @@ Butter-Rosemary Chicken and Cauliflower Bake
 
 1. In a skillet over medium heat, add a little olive oil and brown the chicken skin-side down until the skin is well rendered and golden, 6 to 8 minutes. Flip briefly, then remove. You’re not cooking through.
 
-1. Casserole base
-    1. In the same skillet, reduce heat to medium-low. Add 2 tbsp butter.
-    1. Add garlic and remaining rosemary. Cook just until fragrant, 30 seconds.
-    1. Stir in riced cauliflower and green beans. Season lightly with salt and pepper.
-    1. Add chicken stock and cook 3 to 4 minutes to take the raw edge off and let the cauliflower absorb flavor.
+### Casserole base
+  1. In the same skillet, reduce heat to medium-low. Add 2 tbsp butter.
+  1. Add garlic and remaining rosemary. Cook just until fragrant, 30 seconds.
+  1. Stir in riced cauliflower and green beans. Season lightly with salt and pepper.
+  1. Add chicken stock and cook 3 to 4 minutes to take the raw edge off and let the cauliflower absorb flavor.
 
-1. Assemble
-    1.. Transfer the vegetable mixture to a lightly buttered casserole dish and spread evenly.
-    1. Nestle chicken thighs on top, skin side up.
-    1. Dot the remaining 1 tbsp butter around the dish.
+### Assemble
+  1. Transfer the vegetable mixture to a lightly buttered casserole dish and spread evenly.
+  1. Nestle chicken thighs on top, skin side up.
+  1. Dot the remaining 1 tbsp butter around the dish.
 
-1. Bake
-    1. Cover loosely with foil and bake 25 minutes.
-    1. Uncover and bake another 15 to 20 minutes, until chicken is cooked through and the top is lightly browned.
-    1. If you want crisper skin, finish with 3 to 5 minutes under the broiler.
+### Bake
+  1. Cover loosely with foil and bake 25 minutes.
+  1. Uncover and bake another 15 to 20 minutes, until chicken is cooked through and the top is lightly browned.
+  1. If you want crisper skin, finish with 3 to 5 minutes under the broiler.
 
 ## Notes
 
