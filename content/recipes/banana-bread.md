@@ -9,24 +9,24 @@ tags: ["Sweet"]
 featured_image: 
 ---
 
-From [King Arthur](https://www.kingarthurbaking.com/recipes/banana-bread-recipe)
+Scaled from [King Arthur](https://www.kingarthurbaking.com/recipes/banana-bread-recipe) for 485g of banana.
 
 ## Ingredients
 
-- (161g) 8 tablespoons (113g) unsalted butter, at cool room temperature
-- (203g) 2/3 cup (142g) light brown sugar or dark brown sugar, packed
-- (1.42 t) 1 teaspoon King Arthur Pure Vanilla Extract
-- (1.42 t) 1 teaspoon cinnamon
-- (0.36 t) 1/4 teaspoon nutmeg
-- (1.42 t) 1 teaspoon baking soda
-- (1.42 t) 1 teaspoon baking powder
-- (1.42 t) 1 teaspoon table salt
-- (485g) 1 1/2 cups (340g) bananas, mashed
-- (91g) 3 tablespoons (64g) apricot jam or orange marmalade, optional but tasty
-- (121g) 1/4 cup (85g) honey
-- (2.85) 2 large eggs
-- (385g) 2 1/4 cups (270g) King Arthur Unbleached All-Purpose Flour
-- (81g) 1/2 cup (57g) chopped walnuts, optional
+- 12 tablespoons (161g) unsalted butter, at cool room temperature
+- 1 cup (203g) light brown sugar or dark brown sugar, packed
+- 1.5 teaspoon King Arthur Pure Vanilla Extract
+- 1.5 teaspoon cinnamon
+- 1/3 teaspoon nutmeg
+- 1.5 teaspoon baking soda
+- 1.5 teaspoon baking powder
+- 1.5 teaspoon table salt
+- 2 cups (485g) bananas, mashed
+- 4 1/4 tablespoons (91g) apricot jam or orange marmalade, optional but tasty
+- 1/3 cup (121g) honey
+- 3 large eggs
+- 3 1/4 cups (385g) King Arthur Unbleached All-Purpose Flour
+- 3/4 cup (81g) chopped walnuts, optional
 
 ## Process
 
