@@ -42,7 +42,7 @@ Scaled from [King Arthur](https://www.kingarthurbaking.com/recipes/banana-bread-
 
 1. Bake the bread for 45 minutes, then gently lay a piece of aluminum foil across the top, to prevent over-browning.
 
-1. Bake for an additional 25 minutes (20 minutes if you're baking in a tea loaf pan). Remove the bread from the oven; a long toothpick or cake tester inserted into the center should come out clean, with a few wet crumbs clinging to it. The tester shouldn't show any sign of uncooked batter. If it does, bake the bread an additional 5 minutes, or until it tests done.
+1. Bake for an additional 25 minutes (or much, _much_ longer, as necessary). Remove the bread from the oven; a long toothpick or cake tester inserted into the center should come out clean, with a few wet crumbs clinging to it. The tester shouldn't show any sign of uncooked batter. If it does, bake the bread an additional amount of time proportional to how done it seems to be. If it's jiggly in the center, like it was the first - and only - time I used this recipe, might as well work in 30 minute intervals, otherwise 5 minutes is fine until it tests done.
 
 1. Allow the bread to cool for 10 minutes in the pan. Remove it from the pan, and cool it completely on a rack.
 
@@ -54,3 +54,8 @@ Scaled from [King Arthur](https://www.kingarthurbaking.com/recipes/banana-bread-
 - To make banana bread French toast: Cut your several-day-old loaf into 3/4"-thick slices. Dip the slices into your favorite French toast batter, and cook in a skillet or on a griddle. For added crunch, crush 2 to 3 cups of cornflakes in a wide shallow dish, and dip both sides of your battered banana bread slices into the flakes before cooking.
 - For a reduced-sugar version of this bread, cut the brown sugar in half, to 1/3 cup. For an even greater reduction, use just 2 tablespoons brown sugar. Each version will retain its moist texture, and taste fine — simply less sweet, more banana-y.
 
+## Impressions
+
+This took _way_ longer to bake than the original recipe directed (45 minutes + 25 minutes). In the end - spread over two days, where it was in the fridge in between - it probably took a total of 3 hours or so. All but the first 45 minutes were with foil over the top.
+
+Pretty good. Pretty dark, and not just on the outside. It would make sense if it was dark on the outside with how long it baked, but I'm surprised it's so dark on the inside. I wonder if it has anything to do with the long time in the fridge.
