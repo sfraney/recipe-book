@@ -1,7 +1,7 @@
 ---
 title: "Crispy Chicken Thighs with Warm Gingered Heart of Palm Salad"
 #description: ""
-summary: ""
+summary: "Use canned vegetables and throw together dinner"
 date: 2026-01-30T18:26:52+00:00
 draft: false
 time: ""
@@ -13,29 +13,29 @@ Trying to figure out what to make with a dearth of fresh vegetables and 2 lbs. o
 
 ## Ingredients
 
-- 2 lb bone-in, skin-on chicken thighs
-- salt
+- 2 lb bone-in, skin-on chicken thighs  
+- salt  
 
 ### Vegetable salad
-
-- 1 can heart of palm, drained and rinsed
-- 1 can green beans, drained
-- 1 cup oyster mushrooms, sliced
-- 1 medium carrot, cut into thin matchsticks
-- 2 celery stalks, thinly sliced
-- 1/2 onion, thinly sliced
-- 2 cloves garlic, minced
-- 1 tbsp fresh ginger, minced
-- 1–2 tbsp neutral oil
+- 1 can heart of palm, drained and rinsed  
+- 1 can green beans, drained  
+- 1 can golden mushrooms, drained and rinsed  
+- 1 medium carrot, cut into thin matchsticks  
+- 2 celery stalks, thinly sliced  
+- 1/2 onion, thinly sliced  
+- 2 cloves garlic, minced  
+- 1 tbsp fresh ginger, minced  
+- 1–2 tbsp neutral oil  
 
 ### Warm vinaigrette
+- 1 1/2 tbsp rice vinegar or apple cider vinegar  
+- 1 tsp Dijon mustard  
+- 1 tbsp oil  
+- salt to taste  
 
-- 1 1/2 tbsp rice vinegar or apple cider vinegar
-- 1 tsp Dijon mustard
-- 1 tbsp oil
-- salt to taste
+Optional: cooked black rice + quinoa for serving
 
-## Process
+## Instructions
 
 ### 1. Prep the chicken
 
@@ -53,7 +53,9 @@ Remove to a plate.
 
 Lower heat to medium. Add oil if the pan is dry.
 
-Sauté onion, carrot, and celery 3–4 minutes until just tender. Add mushrooms and cook until they release moisture and it cooks off. Stir in garlic and ginger and cook 30 seconds.
+Sauté onion, carrot, and celery 3–4 minutes until just tender. Add garlic and ginger and cook 30 seconds.
+
+Add canned mushrooms. Increase heat slightly and cook 2–3 minutes to drive off moisture and lightly concentrate their flavor.
 
 Add green beans and return heart of palm to the pan. Toss to warm through. Turn off heat.
 
