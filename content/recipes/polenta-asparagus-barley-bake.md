@@ -1,5 +1,5 @@
 ---
-title = "Layered Polenta with Asparagus & Barley Filling"
+title: "Layered Polenta with Asparagus & Barley Filling"
 summary: "Use some ingredients with ChatGPT"
 date: 2026-02-16T17:57:52+00:00
 draft: false
