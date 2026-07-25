@@ -2,8 +2,8 @@
 title: "Instant Pot Pork Shoulder Pot Roast"
 #description: ""
 summary: "A weeknight-fast pot roast built on deep searing and layered umami — no tomato paste required."
-date: 2020-01-25T18:25:52+00:00
-draft: true
+date: 2026-07-24T18:25:52+00:00
+draft: false
 time: "1 hr 30 min"
 tags: ["Dinner", "Entree", "Meat", "Pork", "Casserole", "Base Ingredient"]
 featured_image: 
