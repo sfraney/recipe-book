@@ -5,7 +5,7 @@ summary: "Flexible enchilada recipe"
 date: 2021-05-08T18:25:52+00:00
 draft: false
 time: "1h"
-tags: ["Dinner", "Chili Pepper"]
+tags: ["Dinner", "Chili Pepper", "Mexican", "Sauce", "Chicken"]
 featured_image: 
 ---
 

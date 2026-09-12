@@ -4,7 +4,7 @@ summary: "Ottolenghi's mejadra from Jerusalem, adapted for black rice and quinoa
 date: 2026-06-22T00:00:00+00:00
 draft: false
 time: "60 minutes"
-tags: ["Dinner", "Entree", "Vegetarian", "Side", "Lentils"]
+tags: ["Dinner", "Entree", "Vegetarian", "Side", "Lentils", "Rice"]
 featured_image:
 ---
 

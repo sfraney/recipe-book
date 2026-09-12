@@ -4,7 +4,7 @@ summary: "Sichuan-Pot-Pie Style"
 date: 2025-06-26T18:25:52+00:00
 draft: false
 time: "30 minutes"
-tags: ["Dinner", "Entree", "Chicken", "Tofu", "Wok", "Sauce", "Sous Vide", "Vegetarian", "Needs Formatting"]
+tags: ["Dinner", "Entree", "Chicken", "Wok", "Sauce", "Sous Vide", "Vegetarian", "Tofu", "Needs Formatting"]
 featured_image: 
 ---
 

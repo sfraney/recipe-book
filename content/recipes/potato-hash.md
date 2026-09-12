@@ -5,7 +5,7 @@ summary: "A simple, robust breakfast"
 date: 2020-01-25T18:25:57+00:00
 draft: false
 time: "45m"
-tags: ["Breakfast", "Potato", "Vegetarian"]
+tags: ["Breakfast", "Potato", "Vegetarian", "Fried"]
 #featured_image: 
 ---
 

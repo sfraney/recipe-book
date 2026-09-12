@@ -5,7 +5,7 @@ summary: "Use canned vegetables and throw together dinner"
 date: 2026-01-30T18:26:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat", "Wok", "Chicken"]
+tags: ["Dinner", "Entree", "Meat", "Chicken", "Wok", "Salad"]
 featured_image: 
 ---
 

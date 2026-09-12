@@ -5,7 +5,7 @@ summary: "Prep and cook for a long time and use up vegetables"
 date: 2022-07-03T21:35:52+00:00
 draft: false
 time: "3h"
-tags: ["Vegetarian", "Entree"]
+tags: ["Dinner", "Entree", "Vegetarian"]
 featured_image: 
 ---
 

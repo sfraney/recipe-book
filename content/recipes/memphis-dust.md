@@ -4,7 +4,7 @@ summary: "Great on pork"
 date: 2024-08-19T23:59:52+00:00
 draft: false
 time: ""
-tags: ["Base Ingredient", "Rub", "Big Batch"]
+tags: ["Rub", "Base Ingredient", "Big Batch", "American"]
 featured_image: 
 ---
 

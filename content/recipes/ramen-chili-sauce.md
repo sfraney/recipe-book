@@ -5,7 +5,7 @@ summary: "Add some chili spice to your next bowl"
 date: 2021-03-02T18:25:52+00:00
 draft: false
 time: "10m"
-tags: ["Sauce"]
+tags: ["Sauce", "Chili Pepper", "Korean"]
 featured_image: 
 ---
 

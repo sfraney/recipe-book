@@ -4,7 +4,7 @@ summary: "Tofu fried rice with black rice and quinoa, frozen cauliflower, squash
 date: 2026-06-27T20:25:52+00:00
 draft: false
 time: "30 min (plus overnight rice)"
-tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Wok", "Cauliflower"]
+tags: ["Dinner", "Entree", "Wok", "Rice", "Tofu", "Vegetarian", "Cauliflower"]
 featured_image:
 ---
 

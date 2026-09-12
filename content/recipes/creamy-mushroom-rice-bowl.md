@@ -4,7 +4,7 @@ summary: "A delicious creamy mushroom rice bowl recipe using available ingredien
 date: 2026-03-08T16:19:41.415760
 draft: false
 time: "1 hour"
-tags: ["Dinner", "Entree"]
+tags: ["Dinner", "Entree", "Mushroom", "Rice", "Vegetarian"]
 featured_image: 
 ---
 

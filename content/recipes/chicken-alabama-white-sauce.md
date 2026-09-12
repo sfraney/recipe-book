@@ -5,7 +5,7 @@ summary: "Unconventional, but oh, so good"
 date: 2020-03-23T18:25:52+00:00
 draft: false
 time: "2h"
-tags: ["Barbecue", "Sauce", "Chicken", "Grill"]
+tags: ["Sauce", "Chicken", "Grill", "Barbecue"]
 #featured_image: 
 ---
 

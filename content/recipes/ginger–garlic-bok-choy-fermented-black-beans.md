@@ -5,7 +5,7 @@ summary: "Quick side"
 date: 2026-02-23T18:19:52+00:00
 draft: false
 time: ""
-tags: ["Vegetarian", "Side", "One-Off"]
+tags: ["Vegetarian", "Side", "Wok", "Fermentation", "One-Off"]
 featured_image: 
 ---
 

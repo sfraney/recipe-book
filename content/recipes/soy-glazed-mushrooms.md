@@ -5,7 +5,7 @@ summary: "Soy-glazed mushrooms"
 date: 2022-09-25T18:43:52+00:00
 draft: false
 time: "45m"
-tags: ["Vegetarian", "Wok"]
+tags: ["Vegetarian", "Wok", "Mushroom", "Sauce"]
 featured_image: 
 ---
 

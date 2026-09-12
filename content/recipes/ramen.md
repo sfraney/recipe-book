@@ -5,7 +5,7 @@ summary: "Giving it a whirl"
 date: 2020-01-25T18:27:00+00:00
 draft: true
 time: "4h"
-tags: ["Soup", "Meat", "Pork", "No Recipe", "Pictures Missing"]
+tags: ["Soup", "Meat", "Pork", "Noodle", "Japanese", "No Recipe", "Pictures Missing"]
 featured_image: 
 ---
 

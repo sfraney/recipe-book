@@ -5,7 +5,7 @@ summary: "Chicken, asparagus, and dried porcini"
 date: 2026-02-22T17:41:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat", "Chicken", "Dry Brine"]
+tags: ["Dinner", "Entree", "Meat", "Chicken", "Dry Brine", "Asparagus", "Mushroom", "Roasting"]
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "Yummy beans, tofu, and curry sauce"
 date: 2022-09-25T18:55:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Tofu", "Entree", "Vegetarian"]
+tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Thai", "Wok"]
 featured_image: 
 ---
 

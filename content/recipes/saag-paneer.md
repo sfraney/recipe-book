@@ -5,7 +5,7 @@ summary: "How to use up some CSA spinach"
 date: 2022-06-12T09:49:52+00:00
 draft: false
 time: "1h"
-tags: ["Indian", "Vegetarian"]
+tags: ["Indian", "Vegetarian", "Paneer", "Sauce", "Curry"]
 featured_image: 
 ---
 

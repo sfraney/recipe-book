@@ -5,7 +5,7 @@ summary: "A low-potassium, nightshade-free version of japchae using black rice n
 date: 2025-08-07T18:45:52+00:00
 draft: false
 time: "45 minutes"
-tags: ["Dinner", "Entree", "Chicken", "Vegetables", "Low-Potassium", "Nightshade-Free"]
+tags: ["Dinner", "Entree", "Chicken", "Noodle", "Vegetables", "Low-Potassium", "Nightshade-Free", "Korean"]
 featured_image: 
 ---
 

@@ -4,7 +4,7 @@ summary: "A delicious egg and mushroom frittata recipe using available ingredien
 date: 2026-03-08T16:31:28.165180
 draft: false
 time: "45 minutes"
-tags: ["Dinner", "Entree"]
+tags: ["Dinner", "Entree", "Egg", "Mushroom", "Vegetarian"]
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "Baked chicken thighs, riced cauliflower, and green beans, finished wit
 date: 2025-12-22T19:01:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat", "Chicken", "Cauliflower"]
+tags: ["Dinner", "Entree", "Meat", "Chicken", "Cauliflower", "Roasting"]
 featured_image: 
 ---
 Butter-Rosemary Chicken and Cauliflower Bake

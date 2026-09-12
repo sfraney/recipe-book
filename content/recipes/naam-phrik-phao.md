@@ -5,7 +5,7 @@ summary: "Chile paste for Pok Pok wings"
 date: 2021-12-29T19:39:52+00:00
 draft: false
 time: "20m"
-tags: ["Sauce", "Chili Pepper"]
+tags: ["Sauce", "Chili Pepper", "Thai"]
 featured_image: 
 ---
 

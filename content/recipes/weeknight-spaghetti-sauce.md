@@ -5,7 +5,7 @@ summary: "Good, quick homemade red sauce"
 date: 2020-03-30T18:25:52+00:00
 draft: false
 time: "30m+"
-tags: ["Favorite", "Base Ingredient", "Sauce", "Fundamental"]
+tags: ["Favorite", "Base Ingredient", "Sauce", "Fundamental", "Italian"]
 #featured_image: 
 ---
 

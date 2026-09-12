@@ -5,7 +5,7 @@ summary: "Nutritious, flavorful rice and lentil dish perfect for diabetic diets"
 date: 2025-08-27T17:50:52+00:00
 draft: false
 time: "1h"
-tags: ["Vegetarian", "Dinner", "Diabetic Friendly", "Lentils", "Quinoa", "Red-Rice"]
+tags: ["Vegetarian", "Dinner", "Diabetic Friendly", "Lentils", "Quinoa", "Rice", "Red-Rice"]
 featured_image: 
 ---
 

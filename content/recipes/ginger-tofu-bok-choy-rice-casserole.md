@@ -4,7 +4,7 @@ summary: "One-pan oven-baked rice casserole with tofu, bok choy, and ginger."
 date: 2025-10-30T00:00:00+00:00
 draft: false
 time: "60 minutes"
-tags: ["Dinner", "Entree", "Vegetarian", "Tofu", "Diabetic Friendly", "Low-Potassium", "Nightshade-Free"]
+tags: ["Dinner", "Entree", "Vegetarian", "Tofu", "Casserole", "Diabetic Friendly", "Low-Potassium", "Nightshade-Free"]
 featured_image:
 ---
 

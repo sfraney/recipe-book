@@ -4,7 +4,7 @@ summary: "Use some ingredients with ChatGPT"
 date: 2026-02-16T17:57:52+00:00
 draft: false
 time: "1.5h"
-tags: ["Dinner", "Entree", "Vegetarian", "Casserole"]
+tags: ["Dinner", "Entree", "Vegetarian", "Casserole", "Asparagus", "Barley"]
 featured_image: 
 ---
 

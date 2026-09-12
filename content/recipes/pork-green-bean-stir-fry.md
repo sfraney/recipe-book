@@ -5,7 +5,7 @@ summary: "Dry-fried green beans using a Sichuan-style blistering technique, comb
 date: 2026-04-18T00:00:00+00:00
 draft: false
 time: "30 minutes"
-tags: ["Dinner", "Entree", "Pork", "Wok", "One-Off"]
+tags: ["Dinner", "Entree", "Pork", "Wok", "Vegetables", "One-Off"]
 featured_image: 
 ---
 

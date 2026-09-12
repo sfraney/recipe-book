@@ -4,7 +4,7 @@ summary: "Preserve some farmer's market bounty"
 date: 2024-04-29T09:40:52+00:00
 draft: 
 time: "1h (15m active)"
-tags: ["Fermentation"]
+tags: ["Fermentation", "Asparagus", "Vegetarian"]
 featured_image: 
 ---
 

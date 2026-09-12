@@ -5,7 +5,7 @@ summary: "Use up some old bananas"
 date: 2026-01-12T19:36:52+00:00
 draft: false
 time: ""
-tags: ["Sweet"]
+tags: ["Sweet", "Breakfast", "Baking"]
 featured_image: 
 ---
 

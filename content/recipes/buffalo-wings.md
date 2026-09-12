@@ -5,7 +5,7 @@ summary: "From Kenji's 'Best Buffalo Wings Recipe'"
 date: 2021-12-27T18:25:52+00:00
 draft: false
 time: "1h"
-tags: ["Chicken", "Fried", "Pictures"]
+tags: ["Chicken", "Fried", "Sauce", "American", "Pictures"]
 featured_image: /recipe-book/buffalo-wings.jpg
 ---
 

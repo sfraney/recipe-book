@@ -5,7 +5,7 @@ summary: "Classic Chinese egg drop soup with ginger and silky egg ribbons."
 date: 2026-04-21T18:58:00+00:00
 draft: false
 time: "15 minutes"
-tags: ["Dinner", "Soup"]
+tags: ["Dinner", "Soup", "Egg", "Chinese"]
 featured_image: 
 ---
 

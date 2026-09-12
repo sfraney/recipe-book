@@ -5,7 +5,7 @@ summary: "High-heat tofu and mushroom stir fry using Kenji-style moisture contro
 date: 2026-04-18T00:00:00+00:00
 draft: false
 time: "25 minutes"
-tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Wok"]
+tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Wok", "Mushroom"]
 featured_image: 
 ---
 

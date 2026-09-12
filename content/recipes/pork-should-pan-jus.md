@@ -5,7 +5,7 @@ summary: "Slow-roasted pork shoulder with a crisp finish"
 date: 2025-12-23T15:58:52+00:00
 draft: false
 time: "~4–5 hours mostly unattended"
-tags: ["Dinner", "Entree", "Meat", "Dry Brine", "Special Occasion", "Roasting", "Pork"]
+tags: ["Dinner", "Entree", "Meat", "Pork", "Dry Brine", "Roasting", "Special Occasion"]
 featured_image: 
 ---
 

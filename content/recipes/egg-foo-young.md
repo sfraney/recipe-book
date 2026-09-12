@@ -5,7 +5,7 @@ summary: ""
 date: 2021-12-23T18:25:52+00:00
 draft: true
 time: "1h"
-tags: []
+tags: ["Chinese", "Egg", "Dinner", "Meat", "Vegetarian"]
 featured_image: 
 ---
 

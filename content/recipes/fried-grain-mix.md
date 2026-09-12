@@ -5,7 +5,7 @@ summary: "Fried rice technique adapted to a black rice, lentil, and quinoa mix."
 date: 2026-04-21T18:59:00+00:00
 draft: false
 time: "20 minutes"
-tags: ["Dinner", "Side"]
+tags: ["Dinner", "Side", "Wok", "Rice", "Fried"]
 featured_image: 
 ---
 

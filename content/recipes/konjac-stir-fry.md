@@ -5,7 +5,7 @@ summary: "A healthy and savory stir-fry featuring konjac noodles, tofu, bok choy
 date: 2025-01-18T18:01:52+00:00
 draft: false
 time: "1h"
-tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Wok"]
+tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Wok", "Noodle"]
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "Mostly unremarkable, but the sauce was good"
 date: 2020-03-04T18:25:52+00:00
 draft: false
 time: "40m"
-tags: ["Chicken", "Chili Pepper", "Tomatillo", "Forgettable"]
+tags: ["Chicken", "Sauce", "Chili Pepper", "Tomatillo", "Forgettable"]
 #featured_image: 
 ---
 

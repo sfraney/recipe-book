@@ -4,7 +4,7 @@ summary: "Delicious sichuan noodle dish"
 date: 2024-05-05T14:21:02+00:00
 draft: false
 time: ""
-tags: []
+tags: ["Chinese", "Noodle", "Sauce", "Pork", "Spicy"]
 featured_image: 
 ---
 

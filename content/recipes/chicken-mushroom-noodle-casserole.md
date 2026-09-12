@@ -5,7 +5,7 @@ summary: "Comfort casserole with chicken, mushrooms, and light béchamel."
 date: 2026-04-16T00:00:00+00:00
 draft: false
 time: "40 minutes"
-tags: ["Dinner", "Chicken", "Casserole", "One-Off"]
+tags: ["Dinner", "Entree", "Casserole", "Chicken", "Mushroom", "Noodle", "One-Off"]
 featured_image:
 ---
 

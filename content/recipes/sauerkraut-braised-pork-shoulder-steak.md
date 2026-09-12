@@ -5,7 +5,7 @@ summary: "German-style pressure-cooker braise: pork shoulder steaks cooked down 
 date: 2026-07-05T18:25:52+00:00
 draft: false
 time: "1 hour"
-tags: ["Dinner", "Entree", "Meat", "Pork"]
+tags: ["Dinner", "Entree", "Meat", "Pork", "Fermentation"]
 featured_image: 
 ---
 

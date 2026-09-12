@@ -5,7 +5,7 @@ summary: "A weeknight-fast pot roast built on deep searing and layered umami —
 date: 2026-07-24T18:25:52+00:00
 draft: false
 time: "1 hr 30 min"
-tags: ["Dinner", "Entree", "Meat", "Pork", "Casserole", "Base Ingredient"]
+tags: ["Dinner", "Entree", "Meat", "Pork", "Casserole", "Instant Pot", "Roasting", "Base Ingredient"]
 featured_image: 
 ---
 

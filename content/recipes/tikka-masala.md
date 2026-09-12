@@ -5,7 +5,7 @@ summary: "Improve bad store-bought tikka masala sauce"
 date: 2022-07-06T18:36:52+00:00
 draft: false
 time: "30m"
-tags: ["Sauce", "Vegetarian"]
+tags: ["Sauce", "Vegetarian", "Indian", "Curry"]
 featured_image: 
 ---
 

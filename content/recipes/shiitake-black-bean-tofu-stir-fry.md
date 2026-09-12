@@ -5,7 +5,7 @@ summary: ""
 date: 2026-03-25T18:43:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Wok", "One-Off"]
+tags: ["Dinner", "Entree", "Tofu", "Vegetarian", "Wok", "Mushroom", "One-Off"]
 featured_image: 
 ---
 

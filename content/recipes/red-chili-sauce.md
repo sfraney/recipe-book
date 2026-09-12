@@ -5,7 +5,7 @@ summary: "The maker of meals"
 date: 2020-02-07T18:25:52+00:00
 draft: false
 time: "3h"
-tags: ["Base Ingredient", "Favorite", "Fundamental", "Chili Pepper"]
+tags: ["Base Ingredient", "Sauce", "Chili Pepper", "Fundamental", "Favorite"]
 #featured_image: 
 ---
 

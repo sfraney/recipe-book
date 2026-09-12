@@ -5,7 +5,7 @@ summary: "This is how you make chicken breast"
 date: 2020-03-29T18:25:52+00:00
 draft: false
 time: "2h - 4h"
-tags: ["Chicken", "Grill", "Sous Vide"]
+tags: ["Chicken", "Grill", "Sous Vide", "Barbecue"]
 #featured_image: 
 ---
 

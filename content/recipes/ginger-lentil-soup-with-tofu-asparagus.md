@@ -4,7 +4,7 @@ summary: "Weeknight brown lentil soup built on bloomed spices, fresh ginger, and
 date: 2026-05-26T18:17:00+00:00
 draft: false
 time: "55 min"
-tags: ["Dinner", "Entree", "Soup", "Tofu", "Vegetarian", "Cauliflower"]
+tags: ["Dinner", "Entree", "Soup", "Tofu", "Vegetarian", "Lentils", "Asparagus", "Cauliflower"]
 featured_image:
 ---
 

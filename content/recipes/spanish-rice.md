@@ -5,7 +5,7 @@ summary: "...or some version of it"
 date: 2026-03-05T21:17:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat", "Tomato"]
+tags: ["Dinner", "Entree", "Meat", "Rice", "Tomato"]
 featured_image: 
 ---
 

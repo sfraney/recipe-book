@@ -5,7 +5,7 @@ summary: "Sichuan tofu and ground beef dish"
 date: 2022-03-09T20:04:00-08:00
 draft: false
 time: "45m"
-tags: ["Beef", "Tofu", "Dinner"]
+tags: ["Chinese", "Beef", "Tofu", "Dinner", "Wok", "Spicy"]
 featured_image: 
 ---
 

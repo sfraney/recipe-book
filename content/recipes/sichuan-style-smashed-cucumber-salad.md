@@ -4,7 +4,7 @@ summary: "Good, simple, craveable cucumbers"
 date: 2026-05-25T12:42:52+00:00
 draft: false
 time: "15m"
-tags: ["Vegetarian", "Side", "Cucumber"]
+tags: ["Vegetarian", "Side", "Cucumber", "Chinese", "Salad"]
 featured_image: 
 ---
 

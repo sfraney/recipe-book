@@ -4,7 +4,7 @@ summary: "A favorite"
 date: 2024-08-19T23:46:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Favorite", "Dry Brine", "Grill", "Barbecue", "Pork", "Smoking"]
+tags: ["Dinner", "Entree", "Favorite", "Dry Brine", "Grill", "Barbecue", "Pork", "Smoking", "Meat"]
 featured_image: 
 ---
 

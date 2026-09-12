@@ -4,7 +4,7 @@ summary: "Surprisingly good recipe from our first CSA"
 date: 2026-02-03T10:50:52+00:00
 draft: false
 time: "30m"
-tags: ["Dinner", "Entree", "Vegetarian", "Favorite"]
+tags: ["Dinner", "Entree", "Vegetarian", "Quinoa", "Salad", "Favorite"]
 featured_image: 
 ---
 

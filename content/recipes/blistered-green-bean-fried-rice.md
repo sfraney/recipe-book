@@ -5,7 +5,7 @@ summary: "Get a neat balance of flavors while using up some green bean bounty"
 date: 2022-09-15T17:30:52+00:00
 draft: false
 time: "1h"
-tags: ["Wok", "Vegetarian"]
+tags: ["Dinner", "Side", "Wok", "Rice", "Vegetarian", "Fried"]
 featured_image: 
 ---
 

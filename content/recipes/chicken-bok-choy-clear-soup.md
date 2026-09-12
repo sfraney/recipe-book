@@ -4,7 +4,7 @@ summary: "A light, brothy, diabetic-friendly, nightshade-free soup with tender c
 date: 2026-01-06T18:53:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat", "Soup", "Chicken", "One-Off"]
+tags: ["Dinner", "Entree", "Soup", "Chicken", "Meat", "One-Off"]
 featured_image:
 ---
 

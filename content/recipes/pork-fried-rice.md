@@ -4,7 +4,7 @@ summary: "Use up some leftover pork chops"
 date: 2026-02-10T18:42:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat", "Wok", "Pork"]
+tags: ["Dinner", "Entree", "Meat", "Pork", "Wok", "Rice", "Fried"]
 featured_image: 
 ---
 

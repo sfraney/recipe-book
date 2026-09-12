@@ -5,7 +5,7 @@ summary: ""
 date: 2025-05-20T19:03:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat", "Wok", "Chicken", "Sous Vide"]
+tags: ["Dinner", "Entree", "Meat", "Chicken", "Wok", "Sous Vide", "Fermentation"]
 featured_image: 
 ---
 

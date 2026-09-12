@@ -4,7 +4,7 @@ summary: ""
 date: 2026-02-08T18:38:52+00:00
 draft: false
 time: "Use some bok choy and paneer"
-tags: ["Dinner", "Entree", "Vegetarian", "Indian"]
+tags: ["Dinner", "Entree", "Vegetarian", "Indian", "Paneer"]
 featured_image: 
 ---
 

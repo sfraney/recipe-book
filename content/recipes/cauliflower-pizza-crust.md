@@ -4,7 +4,7 @@ summary: "Gluten-free pizza crust made from riced cauliflower"
 date: 2025-06-28T16:21:52+00:00
 draft: false
 time: "45 minutes"
-tags: ["Dinner", "Entree", "Cauliflower", "Vegetarian", "Gluten-Free", "Pizza", "Base Ingredient"]
+tags: ["Pizza", "Dough", "Cauliflower", "Vegetarian", "Gluten-Free", "Dinner", "Entree", "Base Ingredient"]
 featured_image: 
 ---
 

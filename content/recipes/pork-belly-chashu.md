@@ -5,7 +5,7 @@ summary: "Great with ramen or on its own"
 date: 2025-06-02T09:31:52+00:00
 draft: false
 time: ""
-tags: ["Dinner", "Entree", "Meat", "Sous Vide", "Pork"]
+tags: ["Dinner", "Entree", "Meat", "Pork", "Sous Vide"]
 featured_image: 
 ---
 

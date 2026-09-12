@@ -5,7 +5,7 @@ summary: "Baked chicken and pre-cooked grain casserole using eggs as a binder fo
 date: 2026-04-19T15:21:00+00:00
 draft: false
 time: "1 hour"
-tags: ["Dinner", "Entree", "Chicken", "Casserole"]
+tags: ["Dinner", "Entree", "Casserole", "Chicken", "Rice"]
 featured_image: 
 ---
 
