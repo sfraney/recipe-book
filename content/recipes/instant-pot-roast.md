@@ -5,7 +5,7 @@ summary: "It's decent food..."
 date: 2020-02-02T18:25:52+00:00
 draft: false
 time: "90m"
-tags: ["Dinner", "Entree", "Meat", "Pork", "Instant Pot", "Roasting", "One-Off"]
+tags: ["Dinner", "Entree", "Meat", "Pork", "Instant Pot", "One-Off"]
 #featured_image: 
 ---
 

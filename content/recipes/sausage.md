@@ -5,7 +5,7 @@ summary: "Iterating on sausage recipes"
 date: 2025-04-13T11:49:52+00:00
 draft: false
 time: ""
-tags: ["Meat", "Base Ingredient", "Big Batch", "Fundamental", "Pork", "Curing", "American"]
+tags: ["Meat", "Base Ingredient", "Big Batch", "Fundamental", "Pork", "Curing"]
 featured_image: 
 ---
 
