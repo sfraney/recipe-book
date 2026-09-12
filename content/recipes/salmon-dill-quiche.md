@@ -5,7 +5,7 @@ summary: "Delicious breakfast if you plan ahead"
 date: 2021-05-08T11:10:52+07:00
 draft: false
 time: "4h (~1h active)"
-tags: ["breakfast", "babish"]
+tags: ["Breakfast", "Babish"]
 featured_image: 
 ---
 

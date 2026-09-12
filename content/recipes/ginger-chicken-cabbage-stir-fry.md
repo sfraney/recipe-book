@@ -5,7 +5,7 @@ summary: "Simple ginger-forward chicken stir fry with cabbage and carrots."
 date: 2026-04-16T00:00:00+00:00
 draft: false
 time: "25 minutes"
-tags: ["Dinner","Chicken","Wok", "One-Off"]
+tags: ["Dinner", "Chicken", "Wok", "One-Off"]
 featured_image:
 ---
 

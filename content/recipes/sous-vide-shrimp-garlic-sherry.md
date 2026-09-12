@@ -5,7 +5,7 @@ summary: "Simple shrimp recipe"
 date: 2021-11-07T18:25:52+00:00
 draft: false
 time: "1h"
-tags: ["shrimp"]
+tags: ["Shrimp"]
 featured_image: 
 ---
 

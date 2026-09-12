@@ -5,7 +5,7 @@ summary: "The only way to eat General Tso's"
 date: 2022-01-08T18:25:52+00:00
 draft: false
 time: "1.5h"
-tags: ["vegetarian"]
+tags: ["Vegetarian"]
 featured_image: 
 ---
 

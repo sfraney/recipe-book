@@ -5,7 +5,7 @@ summary: "Blend of home & Kenji's"
 date: 2021-05-02T23:26:45-07:00
 draft: false
 time: "60m"
-tags: ["soup", "vegetarian"]
+tags: ["Soup", "Vegetarian"]
 featured_image:
 ---
 

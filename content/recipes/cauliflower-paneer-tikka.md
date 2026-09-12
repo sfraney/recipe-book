@@ -5,7 +5,7 @@ summary: "Search: Paneer & Cauliflower..."
 date: 2021-09-23T18:25:52+00:00
 draft: false
 time: "1.5h"
-tags: ["indian", "vegetarian"]
+tags: ["Indian", "Vegetarian"]
 featured_image: 
 ---
 

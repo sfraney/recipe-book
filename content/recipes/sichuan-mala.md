@@ -5,7 +5,7 @@ summary: "Homemade chile oil"
 date: 2022-07-10T16:48:52+00:00
 draft: false
 time: "45m (20m active)"
-tags: ["condiment"]
+tags: ["Condiment"]
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "Pretty good, relatively simple Indian recipe"
 date: 2020-03-29T18:25:52+00:00
 draft: false
 time: "1h"
-tags: ["chickpeas", "chili pepper", "vegetarian"]
+tags: ["Chickpeas", "Chili Pepper", "Vegetarian"]
 #featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "A list of starter vegetarian recipes"
 date: 2020-09-24T18:25:52+00:00
 draft: false
 time: "N/A"
-tags: ["dinner", "side", "list", "vegetarian"]
+tags: ["Dinner", "Side", "List", "Vegetarian"]
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "Basic bacon from AmazingRibs.com"
 date: 2020-01-25T17:50:33-00:00
 draft: false
 time: "days"
-tags: ["curing", "meat", "pork", "smoking", "pictures"]
+tags: ["Curing", "Meat", "Pork", "Smoking", "Pictures"]
 featured_image: "/recipe-book/amazing-ribs-bacon.jpg"
 ---
 

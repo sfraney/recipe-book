@@ -4,7 +4,7 @@ summary: "A diabetic-friendly, nightshade-free one-dish meal with pre-cooked sou
 date: 2025-06-08T15:00:00-07:00
 draft: false
 time: "30 minutes"
-tags: ["Dinner", "Entree", "Chicken", "Paneer", "Sous Vide", "Wok", "One-Off", "Diabetic Friendly", "No Nightshades", "Low Carb", "Chinese", "Fusion"]
+tags: ["Dinner", "Entree", "Chicken", "Paneer", "Sous Vide", "Wok", "One-Off", "Diabetic Friendly", "Nightshade-Free", "Low Carb", "Chinese", "Fusion"]
 featured_image: 
 ---
 

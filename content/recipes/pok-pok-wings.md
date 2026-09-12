@@ -5,7 +5,7 @@ summary: "Famous fried wings from Pok Pok"
 date: 2021-12-28T12:52:52+00:00
 draft: false
 time: "1h active, 8h passive"
-tags: ["chicken", "fried", "meat", "fried", "pictures"]
+tags: ["Chicken", "Fried", "Meat", "Pictures"]
 featured_image: /recipe-book/pok-pok-wings.jpg
 ---
 

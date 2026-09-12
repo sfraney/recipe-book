@@ -5,7 +5,7 @@ summary: "Basic chili sauce for enchiladas rojas"
 date: 2024-01-22T07:07:52+00:00
 draft: false
 time: ""
-tags: ["chili pepper"]
+tags: ["Chili Pepper"]
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "Mix some staples from the fridge"
 date: 2021-12-27T18:25:52+00:00
 draft: false
 time: "10m"
-tags: ["sauce"]
+tags: ["Sauce"]
 featured_image: 
 ---
 

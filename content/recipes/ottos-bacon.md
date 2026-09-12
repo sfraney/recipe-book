@@ -5,7 +5,7 @@ summary: "Another stab at making bacon"
 date: 2020-01-25T18:23:12+00:00
 draft: false
 time: "days"
-tags: ["curing", "meat", "pork", "smoking"]
+tags: ["Curing", "Meat", "Pork", "Smoking"]
 featured_image:
 ---
 

@@ -5,7 +5,7 @@ summary: "Light ginger broth with chicken and a small portion of grain mix."
 date: 2026-04-16T00:00:00+00:00
 draft: false
 time: "25 minutes"
-tags: ["Dinner","Soup","Chicken", "One-Off"]
+tags: ["Dinner", "Soup", "Chicken", "One-Off"]
 featured_image:
 ---
 

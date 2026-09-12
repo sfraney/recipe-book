@@ -5,7 +5,7 @@ summary: "Brighter, more satisfying version of the bottled stuff"
 date: 2021-09-12T23:04:52+00:00
 draft: false
 time: "1w"
-tags: ["sauce", "fermentation"]
+tags: ["Sauce", "Fermentation"]
 featured_image: 
 ---
 

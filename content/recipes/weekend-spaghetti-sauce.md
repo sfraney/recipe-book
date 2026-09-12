@@ -5,7 +5,7 @@ summary: "From all-fresh ingredients, sauce"
 date: 2020-04-25T18:25:52+00:00
 draft: false
 time: "6h"
-tags: ["big batch", "grill oven", "tomato", "sauce"]
+tags: ["Big Batch", "Grill Oven", "Tomato", "Sauce"]
 #featured_image: 
 ---
 

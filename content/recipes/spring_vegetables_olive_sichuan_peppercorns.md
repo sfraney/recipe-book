@@ -5,7 +5,7 @@ summary: "Use some asparagus and beans"
 date: 2022-09-25T18:35:52+00:00
 draft: false
 time: "45m"
-tags: ["vegetarian", "wok"]
+tags: ["Vegetarian", "Wok"]
 featured_image: 
 ---
 

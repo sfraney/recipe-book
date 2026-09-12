@@ -5,7 +5,7 @@ summary: "Treating a big hunk of meat right"
 date: 2020-11-25T18:25:52+00:00
 draft: false
 time: ""
-tags: ["no recipe", "meat", "special occasion", "beef", "dry brine"]
+tags: ["No Recipe", "Meat", "Special Occasion", "Beef", "Dry Brine"]
 featured_image: 
 ---
 

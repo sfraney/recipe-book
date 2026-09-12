@@ -5,7 +5,7 @@ summary: "Indian spice mix"
 date: 2021-10-14T18:25:52+00:00
 draft: false
 time: "10m"
-tags: ["indian", "vegetarian", "base ingredient"]
+tags: ["Indian", "Vegetarian", "Base Ingredient"]
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "Thick, delicious sauce"
 date: 2021-12-04T18:25:52+00:00
 draft: false
 time: "1.5h"
-tags: ["vegetarian", "dinner", "sauce"]
+tags: ["Vegetarian", "Dinner", "Sauce"]
 featured_image: 
 ---
 

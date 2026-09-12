@@ -5,7 +5,7 @@ summary: "Make a vegetarian version of wonderful Sichuan recipe"
 date: 2022-05-09T17:53:52+00:00
 draft: false
 time: "1.5h"
-tags: ["tofu", "dinner", "vegetarian"]
+tags: ["Tofu", "Dinner", "Vegetarian"]
 featured_image: 
 ---
 

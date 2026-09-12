@@ -5,7 +5,7 @@ summary: "Nice sour soup"
 date: 2022-04-23T16:37:52+00:00
 draft: false
 time: "1.5h"
-tags: ["kimchi", "soup", "tofu", "vegetarian"]
+tags: ["Kimchi", "Soup", "Tofu", "Vegetarian"]
 featured_image: 
 ---
 

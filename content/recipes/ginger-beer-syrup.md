@@ -4,7 +4,7 @@ summary: "Mix with soda water"
 date: 2024-06-09T16:02:52+00:00
 draft: false
 time: ""
-tags: ["base ingredient", "drink"]
+tags: ["Base Ingredient", "Drink"]
 featured_image: 
 ---
 

@@ -5,7 +5,7 @@ summary: "Meh"
 date: 2020-01-25T18:25:52+00:00
 draft: false
 time: "12h"
-tags: ["beef", "fat rendering", "meat", "smoking", "tallow"]
+tags: ["Beef", "Fat Rendering", "Meat", "Smoking", "Tallow"]
 #featured_image: 
 ---
 
