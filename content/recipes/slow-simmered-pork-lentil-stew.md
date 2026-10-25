@@ -1,7 +1,7 @@
 ---
 title: "Slow-Simmered Pork, Lentil, and Smoked Pork Hock Stew With Carrots"
 description: "A simple pork-lentil stew using homemade smoked pork hock and pork shoulder stock, brightened with a splash of sherry vinegar. Adapted from J. Kenji López-Alt at Serious Eats."
-summary: "This one-pot stew comes together with minimal ingredients. Smoked pork hock and pork shoulder meat, French lentils, carrots, and aromatics simmer together in rich homemade pork stock into a thick, hearty stew finished with sherry vinegar, parsley, and extra-virgin olive oil."
+summary: "Hearty one-pot stew with smoked pork hock, French lentils, and carrots in rich homemade pork stock, finished with sherry vinegar and parsley."
 date: 2026-10-25T15:15:00+00:00
 draft: false
 time: "45 mins"
