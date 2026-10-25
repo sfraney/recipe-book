@@ -1,11 +1,11 @@
 ---
-title: "Quick and Easy Pressure Cooker Pork, Lentil, and Smoked Pork Hock Stew With Carrots"
+title: "Slow-Simmered Pork, Lentil, and Smoked Pork Hock Stew With Carrots"
 description: "A simple pork-lentil stew using homemade smoked pork hock and pork shoulder stock, brightened with a splash of sherry vinegar. Adapted from J. Kenji López-Alt at Serious Eats."
-summary: "This one-pot pressure cooker stew comes together in under an hour with minimal ingredients. Smoked pork hock and pork shoulder meat, French lentils, carrots, and aromatics cook together in rich homemade pork stock into a thick, hearty stew finished with sherry vinegar, parsley, and extra-virgin olive oil."
+summary: "This one-pot stew comes together with minimal ingredients. Smoked pork hock and pork shoulder meat, French lentils, carrots, and aromatics simmer together in rich homemade pork stock into a thick, hearty stew finished with sherry vinegar, parsley, and extra-virgin olive oil."
 date: 2025-03-03T00:00:00+00:00
 draft: false
-time: "55 mins"
-tags: ["Dinner", "Entree", "Meat", "Pork", "Soup", "Pressure Cooker", "Lentils", "Smoked Pork Hock", "Kenji López-Alt", "Serious Eats", "One Pot", "Big Batch", "Comfort Food"]
+time: "2.5 hours"
+tags: ["Dinner", "Entree", "Meat", "Pork", "Soup", "Lentils", "Smoked Pork Hock", "Kenji López-Alt", "Serious Eats", "One Pot", "Big Batch", "Comfort Food", "Slow Cooked"]
 featured_image: 
 ---
 
@@ -24,20 +24,20 @@ featured_image:
 
 ## Directions
 
-1. Heat oil in a pressure cooker over medium-high heat until shimmering. Add onions and cook, stirring, until softened but not browned, about 2 minutes. Add carrots, lentils, parsley stems, bay leaves, shredded pork meat, and homemade pork stock. Season gently with salt and pepper and stir to combine.
+1. Heat oil in a large Dutch oven or heavy pot over medium-high heat until shimmering. Add onions and cook, stirring, until softened but not browned, about 2 minutes. Add carrots, lentils, parsley stems, bay leaves, shredded pork meat, and homemade pork stock. Season gently with salt and pepper and stir to combine.
 
-2. Seal pressure cooker and bring to high pressure. Cook for 20 minutes. Cool pressure cooker under a cold running tap (if using an electric cooker, use the quick release valve), and open. Discard parsley stems. Return lentils to high heat and continue cooking, stirring, until reduced to a thick, stew-like consistency, about 5 minutes.
+2. Bring to a boil, then reduce heat to low and simmer, partially covered, until lentils are tender and stew has thickened, about 1.5 to 2 hours. Stir occasionally and add more stock or water if needed. Discard parsley stems and bay leaves.
 
 3. Stir vinegar into stew. Season to taste with salt and pepper, stir in half of chopped parsley, and serve, passing remaining parsley, sherry vinegar, and olive oil at the table.
 
 ## Notes
 
-- **Special Equipment:** Electric or stovetop pressure cooker
+- **Special Equipment:** Large Dutch oven or heavy-bottomed pot
 - **Make Ahead:** The stew can be made ahead and reheated. The lentils will absorb more liquid as it sits, so you may need to thin it with a bit of water or stock when reheating.
 - **Pork Stock:** Simmer cured and smoked pork hock with pork shoulder bone, onions, and smashed garlic for several hours to create a rich, flavorful stock. Strain before using.
 - **Pork Meat:** Shred the meat from the smoked pork hock and pork shoulder after making the stock. The meat is already cured and smoked, so it just needs heating through.
 - **Lentils:** French Le Puy lentils hold their shape well, but any lentil variety will work.
-- **Finishing:** The final reduction on the stovetop thickens the stew. The sherry vinegar, parsley, and olive oil added at the end provide crucial brightness and freshness.
+- **Simmering:** The long, gentle simmer develops deep flavor and naturally thickens the stew as the lentils break down slightly. The sherry vinegar, parsley, and olive oil added at the end provide crucial brightness and freshness.
 
 ## Source
 
